@@ -1,0 +1,54 @@
+
+monkey_after.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_monkey_3
+  rotate: false
+  xy: 100, 80
+  size: 204, 203
+  orig: 360, 203
+  offset: 55, 0
+  index: -1
+bg_monkey_4
+  rotate: true
+  xy: 100, 363
+  size: 548, 405
+  orig: 720, 405
+  offset: 172, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 404, 247
+  size: 36, 36
+  orig: 36, 43
+  offset: 0, 4
+  index: -1
+
+monkey_after2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_monkey_1
+  rotate: true
+  xy: 100, 80
+  size: 508, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+
+monkey_after3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_monkey_2
+  rotate: false
+  xy: 100, 80
+  size: 391, 405
+  orig: 720, 405
+  offset: 117, 0
+  index: -1
+monkey_after_b.atlas

@@ -1,0 +1,272 @@
+
+longwang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dks001
+  rotate: true
+  xy: 217, 87
+  size: 56, 51
+  orig: 500, 500
+  offset: 321, 178
+  index: -1
+dks002
+  rotate: true
+  xy: 720, 803
+  size: 54, 57
+  orig: 500, 500
+  offset: 320, 178
+  index: -1
+dks003
+  rotate: true
+  xy: 487, 481
+  size: 63, 53
+  orig: 500, 500
+  offset: 315, 179
+  index: -1
+dks004
+  rotate: true
+  xy: 956, 955
+  size: 67, 55
+  orig: 500, 500
+  offset: 308, 179
+  index: -1
+dks005
+  rotate: false
+  xy: 215, 33
+  size: 61, 52
+  orig: 500, 500
+  offset: 308, 179
+  index: -1
+dks006
+  rotate: false
+  xy: 353, 485
+  size: 68, 53
+  orig: 500, 500
+  offset: 304, 178
+  index: -1
+dks007
+  rotate: false
+  xy: 423, 487
+  size: 62, 54
+  orig: 500, 500
+  offset: 307, 176
+  index: -1
+dks008
+  rotate: true
+  xy: 544, 636
+  size: 61, 53
+  orig: 500, 500
+  offset: 308, 176
+  index: -1
+dks009
+  rotate: true
+  xy: 544, 573
+  size: 61, 53
+  orig: 500, 500
+  offset: 313, 174
+  index: -1
+dks010
+  rotate: false
+  xy: 483, 546
+  size: 59, 57
+  orig: 500, 500
+  offset: 314, 174
+  index: -1
+dks011
+  rotate: false
+  xy: 599, 649
+  size: 61, 53
+  orig: 500, 500
+  offset: 316, 174
+  index: -1
+dks012
+  rotate: false
+  xy: 148, 89
+  size: 67, 54
+  orig: 500, 500
+  offset: 313, 176
+  index: -1
+dks013
+  rotate: false
+  xy: 599, 595
+  size: 61, 52
+  orig: 500, 500
+  offset: 315, 177
+  index: -1
+dks014
+  rotate: false
+  xy: 148, 35
+  size: 65, 52
+  orig: 500, 500
+  offset: 320, 178
+  index: -1
+dks015
+  rotate: false
+  xy: 419, 543
+  size: 62, 60
+  orig: 500, 500
+  offset: 320, 179
+  index: -1
+longwang_001
+  rotate: false
+  xy: 2, 145
+  size: 166, 143
+  orig: 166, 143
+  offset: 0, 0
+  index: -1
+longwang_002
+  rotate: false
+  xy: 788, 940
+  size: 166, 82
+  orig: 166, 143
+  offset: 0, 37
+  index: -1
+longwang_02
+  rotate: true
+  xy: 265, 540
+  size: 63, 152
+  orig: 63, 152
+  offset: 0, 0
+  index: -1
+longwang_03
+  rotate: false
+  xy: 561, 859
+  size: 216, 68
+  orig: 216, 74
+  offset: 0, 0
+  index: -1
+longwang_04
+  rotate: false
+  xy: 662, 646
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+longwang_05
+  rotate: false
+  xy: 265, 485
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+longwang_06
+  rotate: false
+  xy: 561, 801
+  size: 157, 56
+  orig: 157, 56
+  offset: 0, 0
+  index: -1
+longwang_07
+  rotate: false
+  xy: 2, 12
+  size: 106, 37
+  orig: 106, 37
+  offset: 0, 0
+  index: -1
+longwang_08
+  rotate: false
+  xy: 2, 747
+  size: 261, 275
+  orig: 261, 275
+  offset: 0, 0
+  index: -1
+longwang_09
+  rotate: false
+  xy: 2, 51
+  size: 144, 92
+  orig: 146, 94
+  offset: 1, 1
+  index: -1
+longwang_10
+  rotate: false
+  xy: 265, 605
+  size: 199, 92
+  orig: 199, 92
+  offset: 0, 0
+  index: -1
+longwang_11
+  rotate: false
+  xy: 265, 699
+  size: 292, 102
+  orig: 294, 104
+  offset: 1, 1
+  index: -1
+longwang_12
+  rotate: false
+  xy: 2, 290
+  size: 249, 178
+  orig: 249, 178
+  offset: 0, 0
+  index: -1
+longwang_13
+  rotate: false
+  xy: 170, 185
+  size: 79, 103
+  orig: 81, 105
+  offset: 1, 1
+  index: -1
+longwang_14
+  rotate: false
+  xy: 265, 803
+  size: 294, 219
+  orig: 294, 219
+  offset: 0, 0
+  index: -1
+longwang_14_1
+  rotate: false
+  xy: 559, 704
+  size: 118, 95
+  orig: 294, 219
+  offset: 108, 85
+  index: -1
+longwang_15
+  rotate: true
+  xy: 679, 703
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+longwang_16
+  rotate: false
+  xy: 561, 929
+  size: 225, 93
+  orig: 227, 95
+  offset: 1, 1
+  index: -1
+longwang_jiao1
+  rotate: true
+  xy: 110, 2
+  size: 31, 79
+  orig: 261, 275
+  offset: 78, 195
+  index: -1
+longwang_jiao2
+  rotate: false
+  xy: 466, 605
+  size: 76, 92
+  orig: 261, 275
+  offset: 155, 175
+  index: -1
+longwang_maozi
+  rotate: false
+  xy: 2, 470
+  size: 261, 275
+  orig: 261, 275
+  offset: 0, 0
+  index: -1
+longwang_maozi2
+  rotate: false
+  xy: 544, 547
+  size: 44, 24
+  orig: 261, 275
+  offset: 93, 195
+  index: -1
+longwangzui
+  rotate: false
+  xy: 170, 145
+  size: 76, 38
+  orig: 500, 500
+  offset: 182, 244
+  index: -1

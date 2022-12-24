@@ -1,0 +1,153 @@
+
+dragon_wheel.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S4_blink
+  rotate: false
+  xy: 710, 212
+  size: 46, 42
+  orig: 53, 53
+  offset: 5, 5
+  index: -1
+actua1_000
+  rotate: true
+  xy: 758, 215
+  size: 16, 33
+  orig: 189, 189
+  offset: 74, 77
+  index: -1
+actua1_001
+  rotate: false
+  xy: 140, 15
+  size: 33, 45
+  orig: 189, 189
+  offset: 74, 74
+  index: -1
+actua1_002
+  rotate: false
+  xy: 660, 149
+  size: 43, 50
+  orig: 189, 189
+  offset: 74, 74
+  index: -1
+actua1_003
+  rotate: false
+  xy: 660, 201
+  size: 48, 53
+  orig: 189, 189
+  offset: 77, 74
+  index: -1
+actua1_004
+  rotate: false
+  xy: 92, 9
+  size: 46, 51
+  orig: 189, 189
+  offset: 84, 76
+  index: -1
+actua1_005
+  rotate: true
+  xy: 238, 66
+  size: 37, 47
+  orig: 189, 189
+  offset: 93, 80
+  index: -1
+actua1_006
+  rotate: false
+  xy: 660, 111
+  size: 26, 36
+  orig: 189, 189
+  offset: 104, 90
+  index: -1
+actua2_000
+  rotate: false
+  xy: 140, 2
+  size: 21, 11
+  orig: 189, 189
+  offset: 45, 63
+  index: -1
+actua2_001
+  rotate: false
+  xy: 799, 233
+  size: 34, 21
+  orig: 189, 189
+  offset: 45, 60
+  index: -1
+actua2_002
+  rotate: false
+  xy: 287, 82
+  size: 37, 21
+  orig: 189, 189
+  offset: 54, 60
+  index: -1
+actua2_003
+  rotate: false
+  xy: 758, 233
+  size: 39, 21
+  orig: 189, 189
+  offset: 63, 60
+  index: -1
+actua2_004
+  rotate: true
+  xy: 688, 112
+  size: 35, 15
+  orig: 189, 189
+  offset: 80, 66
+  index: -1
+actua2_005
+  rotate: false
+  xy: 660, 95
+  size: 25, 14
+  orig: 189, 189
+  offset: 94, 67
+  index: -1
+actua2_006
+  rotate: false
+  xy: 175, 36
+  size: 32, 24
+  orig: 189, 189
+  offset: 104, 68
+  index: -1
+actua2_007
+  rotate: false
+  xy: 326, 88
+  size: 19, 15
+  orig: 189, 189
+  offset: 122, 78
+  index: -1
+actua2_008
+  rotate: true
+  xy: 287, 68
+  size: 12, 15
+  orig: 189, 189
+  offset: 129, 78
+  index: -1
+actua3_000
+  rotate: false
+  xy: 238, 105
+  size: 236, 149
+  orig: 378, 378
+  offset: 71, 138
+  index: -1
+blink_edit
+  rotate: false
+  xy: 476, 77
+  size: 182, 177
+  orig: 182, 182
+  offset: 0, 3
+  index: -1
+dragon wheel_actual size
+  rotate: false
+  xy: 2, 62
+  size: 234, 192
+  orig: 378, 378
+  offset: 72, 93
+  index: -1
+ying
+  rotate: false
+  xy: 2, 3
+  size: 88, 57
+  orig: 90, 58
+  offset: 1, 0
+  index: -1

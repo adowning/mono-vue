@@ -1,0 +1,216 @@
+
+dragon_wheel_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lighting/actual_000
+  rotate: false
+  xy: 2, 4
+  size: 181, 171
+  orig: 189, 189
+  offset: 5, 10
+  index: -1
+lighting/actual_001
+  rotate: false
+  xy: 185, 3
+  size: 181, 171
+  orig: 189, 189
+  offset: 5, 10
+  index: -1
+lighting/actual_002
+  rotate: false
+  xy: 368, 2
+  size: 181, 171
+  orig: 189, 189
+  offset: 5, 10
+  index: -1
+lighting/actual_003
+  rotate: false
+  xy: 551, 2
+  size: 180, 171
+  orig: 189, 189
+  offset: 5, 10
+  index: -1
+lighting/actual_004
+  rotate: false
+  xy: 733, 2
+  size: 181, 171
+  orig: 189, 189
+  offset: 4, 10
+  index: -1
+lighting/actual_005
+  rotate: false
+  xy: 539, 175
+  size: 181, 170
+  orig: 189, 189
+  offset: 4, 11
+  index: -1
+lighting/actual_006
+  rotate: false
+  xy: 541, 347
+  size: 181, 169
+  orig: 189, 189
+  offset: 4, 11
+  index: -1
+lighting/actual_007
+  rotate: false
+  xy: 180, 349
+  size: 181, 168
+  orig: 189, 189
+  offset: 4, 12
+  index: -1
+lighting/actual_008
+  rotate: false
+  xy: 721, 687
+  size: 181, 167
+  orig: 189, 189
+  offset: 4, 13
+  index: -1
+lighting/actual_009
+  rotate: false
+  xy: 2, 520
+  size: 181, 167
+  orig: 189, 189
+  offset: 4, 13
+  index: -1
+lighting/actual_010
+  rotate: false
+  xy: 539, 856
+  size: 181, 166
+  orig: 189, 189
+  offset: 4, 13
+  index: -1
+lighting/actual_011
+  rotate: false
+  xy: 722, 856
+  size: 181, 166
+  orig: 189, 189
+  offset: 4, 13
+  index: -1
+lighting/actual_012
+  rotate: false
+  xy: 2, 689
+  size: 181, 166
+  orig: 189, 189
+  offset: 4, 13
+  index: -1
+lighting/actual_013
+  rotate: false
+  xy: 362, 519
+  size: 181, 167
+  orig: 189, 189
+  offset: 4, 12
+  index: -1
+lighting/actual_014
+  rotate: false
+  xy: 545, 518
+  size: 181, 167
+  orig: 189, 189
+  offset: 4, 12
+  index: -1
+lighting/actual_015
+  rotate: false
+  xy: 728, 518
+  size: 181, 167
+  orig: 189, 189
+  offset: 4, 12
+  index: -1
+lighting/actual_016
+  rotate: false
+  xy: 185, 689
+  size: 180, 166
+  orig: 189, 189
+  offset: 5, 12
+  index: -1
+lighting/actual_017
+  rotate: false
+  xy: 2, 857
+  size: 178, 165
+  orig: 189, 189
+  offset: 6, 13
+  index: -1
+lighting/actual_018
+  rotate: false
+  xy: 182, 857
+  size: 177, 165
+  orig: 189, 189
+  offset: 7, 13
+  index: -1
+lighting/actual_019
+  rotate: false
+  xy: 361, 857
+  size: 176, 165
+  orig: 189, 189
+  offset: 7, 13
+  index: -1
+lighting/actual_020
+  rotate: false
+  xy: 367, 688
+  size: 176, 166
+  orig: 189, 189
+  offset: 7, 13
+  index: -1
+lighting/actual_021
+  rotate: false
+  xy: 545, 688
+  size: 174, 166
+  orig: 189, 189
+  offset: 8, 13
+  index: -1
+lighting/actual_022
+  rotate: false
+  xy: 185, 520
+  size: 175, 167
+  orig: 189, 189
+  offset: 7, 12
+  index: -1
+lighting/actual_023
+  rotate: false
+  xy: 2, 351
+  size: 176, 167
+  orig: 189, 189
+  offset: 6, 11
+  index: -1
+lighting/actual_024
+  rotate: false
+  xy: 363, 348
+  size: 176, 169
+  orig: 189, 189
+  offset: 6, 10
+  index: -1
+lighting/actual_025
+  rotate: false
+  xy: 724, 347
+  size: 176, 169
+  orig: 189, 189
+  offset: 6, 10
+  index: -1
+lighting/actual_026
+  rotate: false
+  xy: 2, 178
+  size: 177, 169
+  orig: 189, 189
+  offset: 6, 10
+  index: -1
+lighting/actual_027
+  rotate: false
+  xy: 181, 177
+  size: 177, 170
+  orig: 189, 189
+  offset: 6, 10
+  index: -1
+lighting/actual_028
+  rotate: false
+  xy: 360, 176
+  size: 177, 170
+  orig: 189, 189
+  offset: 6, 10
+  index: -1
+lighting/actual_029
+  rotate: false
+  xy: 722, 175
+  size: 177, 170
+  orig: 189, 189
+  offset: 6, 10
+  index: -1

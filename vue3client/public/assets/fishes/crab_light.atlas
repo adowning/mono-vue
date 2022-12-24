@@ -1,0 +1,216 @@
+
+crab_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Crab_lightning/Crab_lightning_000
+  rotate: false
+  xy: 2, 275
+  size: 177, 148
+  orig: 188, 188
+  offset: 3, 18
+  index: -1
+Crab_lightning/Crab_lightning_001
+  rotate: false
+  xy: 742, 593
+  size: 177, 147
+  orig: 188, 188
+  offset: 3, 18
+  index: -1
+Crab_lightning/Crab_lightning_002
+  rotate: false
+  xy: 372, 436
+  size: 178, 146
+  orig: 188, 188
+  offset: 2, 18
+  index: -1
+Crab_lightning/Crab_lightning_003
+  rotate: false
+  xy: 737, 445
+  size: 175, 146
+  orig: 188, 188
+  offset: 5, 18
+  index: -1
+Crab_lightning/Crab_lightning_004
+  rotate: false
+  xy: 735, 297
+  size: 175, 146
+  orig: 188, 188
+  offset: 5, 18
+  index: -1
+Crab_lightning/Crab_lightning_005
+  rotate: false
+  xy: 611, 149
+  size: 175, 146
+  orig: 188, 188
+  offset: 5, 18
+  index: -1
+Crab_lightning/Crab_lightning_006
+  rotate: false
+  xy: 2, 425
+  size: 180, 146
+  orig: 188, 188
+  offset: 0, 19
+  index: -1
+Crab_lightning/Crab_lightning_007
+  rotate: false
+  xy: 189, 580
+  size: 180, 146
+  orig: 188, 188
+  offset: 0, 19
+  index: -1
+Crab_lightning/Crab_lightning_008
+  rotate: false
+  xy: 375, 728
+  size: 180, 146
+  orig: 188, 188
+  offset: 0, 19
+  index: -1
+Crab_lightning/Crab_lightning_009
+  rotate: false
+  xy: 562, 880
+  size: 183, 142
+  orig: 188, 188
+  offset: 0, 23
+  index: -1
+Crab_lightning/Crab_lightning_010
+  rotate: false
+  xy: 371, 584
+  size: 183, 142
+  orig: 188, 188
+  offset: 0, 23
+  index: -1
+Crab_lightning/Crab_lightning_011
+  rotate: true
+  xy: 2, 90
+  size: 183, 142
+  orig: 188, 188
+  offset: 0, 23
+  index: -1
+Crab_lightning/Crab_lightning_012
+  rotate: false
+  xy: 747, 883
+  size: 185, 139
+  orig: 188, 188
+  offset: 0, 26
+  index: -1
+Crab_lightning/Crab_lightning_013
+  rotate: true
+  xy: 146, 88
+  size: 185, 139
+  orig: 188, 188
+  offset: 0, 26
+  index: -1
+Crab_lightning/Crab_lightning_014
+  rotate: false
+  xy: 747, 742
+  size: 185, 139
+  orig: 188, 188
+  offset: 0, 26
+  index: -1
+Crab_lightning/Crab_lightning_015
+  rotate: false
+  xy: 189, 441
+  size: 181, 137
+  orig: 188, 188
+  offset: 1, 27
+  index: -1
+Crab_lightning/Crab_lightning_016
+  rotate: false
+  xy: 184, 302
+  size: 180, 137
+  orig: 188, 188
+  offset: 2, 27
+  index: -1
+Crab_lightning/Crab_lightning_017
+  rotate: false
+  xy: 366, 296
+  size: 180, 138
+  orig: 188, 188
+  offset: 2, 27
+  index: -1
+Crab_lightning/Crab_lightning_018
+  rotate: true
+  xy: 467, 116
+  size: 178, 142
+  orig: 188, 188
+  offset: 2, 24
+  index: -1
+Crab_lightning/Crab_lightning_019
+  rotate: false
+  xy: 287, 2
+  size: 178, 143
+  orig: 188, 188
+  offset: 2, 24
+  index: -1
+Crab_lightning/Crab_lightning_020
+  rotate: false
+  xy: 562, 735
+  size: 178, 143
+  orig: 188, 188
+  offset: 2, 24
+  index: -1
+Crab_lightning/Crab_lightning_021
+  rotate: false
+  xy: 2, 721
+  size: 185, 149
+  orig: 188, 188
+  offset: 0, 20
+  index: -1
+Crab_lightning/Crab_lightning_022
+  rotate: false
+  xy: 2, 872
+  size: 185, 150
+  orig: 188, 188
+  offset: 0, 20
+  index: -1
+Crab_lightning/Crab_lightning_023
+  rotate: false
+  xy: 189, 876
+  size: 185, 146
+  orig: 188, 188
+  offset: 0, 20
+  index: -1
+Crab_lightning/Crab_lightning_024
+  rotate: false
+  xy: 189, 728
+  size: 184, 146
+  orig: 188, 188
+  offset: 0, 18
+  index: -1
+Crab_lightning/Crab_lightning_025
+  rotate: false
+  xy: 376, 876
+  size: 184, 146
+  orig: 188, 188
+  offset: 0, 18
+  index: -1
+Crab_lightning/Crab_lightning_026
+  rotate: false
+  xy: 2, 573
+  size: 185, 146
+  orig: 188, 188
+  offset: 0, 18
+  index: -1
+Crab_lightning/Crab_lightning_027
+  rotate: false
+  xy: 557, 587
+  size: 178, 146
+  orig: 188, 188
+  offset: 3, 18
+  index: -1
+Crab_lightning/Crab_lightning_028
+  rotate: false
+  xy: 556, 439
+  size: 177, 146
+  orig: 188, 188
+  offset: 3, 18
+  index: -1
+Crab_lightning/Crab_lightning_029
+  rotate: false
+  xy: 287, 147
+  size: 178, 147
+  orig: 188, 188
+  offset: 2, 18
+  index: -1

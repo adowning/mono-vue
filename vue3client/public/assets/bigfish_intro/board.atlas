@@ -1,0 +1,490 @@
+
+board.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Azure_Panel
+  rotate: true
+  xy: 65, 465
+  size: 260, 86
+  orig: 449, 225
+  offset: 104, 0
+  index: -1
+Azure_Stone_002
+  rotate: false
+  xy: 394, 415
+  size: 62, 37
+  orig: 225, 113
+  offset: 55, 3
+  index: -1
+Azure_Stone_003
+  rotate: false
+  xy: 211, 17
+  size: 90, 37
+  orig: 225, 113
+  offset: 65, 3
+  index: -1
+Dragon_backdrop
+  rotate: false
+  xy: 65, 727
+  size: 582, 295
+  orig: 582, 295
+  offset: 0, 0
+  index: -1
+Dragon_light
+  rotate: false
+  xy: 706, 258
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Fire_backdrop
+  rotate: true
+  xy: 712, 460
+  size: 562, 235
+  orig: 562, 235
+  offset: 0, 0
+  index: -1
+Fire_backdrop_000
+  rotate: true
+  xy: 65, 2
+  size: 13, 19
+  orig: 315, 136
+  offset: 40, 2
+  index: -1
+Fire_backdrop_001
+  rotate: false
+  xy: 816, 3
+  size: 115, 116
+  orig: 315, 136
+  offset: 18, 8
+  index: -1
+Hammer_tx03_000
+  rotate: false
+  xy: 211, 343
+  size: 118, 109
+  orig: 504, 284
+  offset: 130, 106
+  index: -1
+Hammer_tx03_006
+  rotate: true
+  xy: 211, 56
+  size: 200, 180
+  orig: 504, 284
+  offset: 207, 62
+  index: -1
+Hammer_tx03_007
+  rotate: true
+  xy: 625, 59
+  size: 197, 114
+  orig: 504, 284
+  offset: 210, 62
+  index: -1
+Pirate_frame
+  rotate: true
+  xy: 65, 17
+  size: 441, 81
+  orig: 491, 319
+  offset: 25, 0
+  index: -1
+Pirate_tx01_000
+  rotate: true
+  xy: 663, 3
+  size: 54, 88
+  orig: 246, 160
+  offset: 7, 14
+  index: -1
+Pirate_tx01_001_7
+  rotate: true
+  xy: 149, 3
+  size: 12, 9
+  orig: 245, 165
+  offset: 216, 36
+  index: -1
+Pirate_tx01_002
+  rotate: true
+  xy: 522, 339
+  size: 113, 119
+  orig: 246, 160
+  offset: 18, 24
+  index: -1
+Pirate_tx01_003
+  rotate: false
+  xy: 816, 121
+  size: 143, 135
+  orig: 246, 160
+  offset: 38, 18
+  index: -1
+Pirate_tx01_006
+  rotate: true
+  xy: 211, 258
+  size: 83, 118
+  orig: 246, 160
+  offset: 153, 30
+  index: -1
+hammer_Backdrop
+  rotate: false
+  xy: 216, 454
+  size: 425, 271
+  orig: 425, 285
+  offset: 0, 14
+  index: -1
+monkey2_tx01_002
+  rotate: true
+  xy: 394, 341
+  size: 72, 49
+  orig: 231, 103
+  offset: 52, 2
+  index: -1
+monkey2_tx01_006
+  rotate: true
+  xy: 223, 4
+  size: 11, 14
+  orig: 231, 103
+  offset: 165, 31
+  index: -1
+monkey3_tx01_006
+  rotate: false
+  xy: 522, 4
+  size: 76, 50
+  orig: 231, 103
+  offset: 50, 3
+  index: -1
+monkey3_tx01_007
+  rotate: false
+  xy: 366, 3
+  size: 91, 51
+  orig: 231, 103
+  offset: 67, 3
+  index: -1
+monkey_Panel
+  rotate: true
+  xy: 456, 56
+  size: 281, 104
+  orig: 462, 206
+  offset: 91, 0
+  index: -1
+
+board2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Azure_Stone_001
+  rotate: true
+  xy: 798, 451
+  size: 23, 35
+  orig: 225, 113
+  offset: 55, 3
+  index: -1
+Azure_Stone_004
+  rotate: false
+  xy: 554, 25
+  size: 75, 37
+  orig: 225, 113
+  offset: 104, 3
+  index: -1
+Azure_Stone_005
+  rotate: false
+  xy: 842, 23
+  size: 38, 36
+  orig: 225, 113
+  offset: 142, 4
+  index: -1
+Dragon_panel
+  rotate: true
+  xy: 388, 38
+  size: 268, 93
+  orig: 582, 295
+  offset: 157, 2
+  index: -1
+Fire_backdrop_002
+  rotate: true
+  xy: 547, 200
+  size: 108, 126
+  orig: 315, 136
+  offset: 110, 8
+  index: -1
+Fire_backdrop_003
+  rotate: false
+  xy: 839, 615
+  size: 97, 131
+  orig: 315, 136
+  offset: 180, 2
+  index: -1
+Fire_backdrop_004
+  rotate: false
+  xy: 884, 237
+  size: 38, 36
+  orig: 315, 136
+  offset: 276, 89
+  index: -1
+Hammer_tx03_001
+  rotate: false
+  xy: 602, 849
+  size: 289, 173
+  orig: 504, 284
+  offset: 97, 43
+  index: -1
+Hammer_tx03_002
+  rotate: false
+  xy: 65, 417
+  size: 258, 160
+  orig: 504, 284
+  offset: 107, 81
+  index: -1
+Hammer_tx03_003
+  rotate: false
+  xy: 65, 255
+  size: 258, 160
+  orig: 504, 284
+  offset: 107, 81
+  index: -1
+Hammer_tx03_004
+  rotate: false
+  xy: 65, 93
+  size: 258, 160
+  orig: 504, 284
+  offset: 107, 81
+  index: -1
+Hammer_tx03_005
+  rotate: true
+  xy: 602, 590
+  size: 156, 172
+  orig: 504, 284
+  offset: 209, 69
+  index: -1
+Pirate_Panel
+  rotate: false
+  xy: 602, 748
+  size: 279, 99
+  orig: 491, 319
+  offset: 106, 0
+  index: -1
+Pirate_tx01_001
+  rotate: false
+  xy: 734, 321
+  size: 86, 128
+  orig: 246, 160
+  offset: 7, 14
+  index: -1
+Pirate_tx01_001_1
+  rotate: true
+  xy: 282, 41
+  size: 50, 40
+  orig: 245, 165
+  offset: 49, 5
+  index: -1
+Pirate_tx01_001_2
+  rotate: false
+  xy: 839, 575
+  size: 85, 38
+  orig: 245, 165
+  offset: 49, 7
+  index: -1
+Pirate_tx01_001_3
+  rotate: true
+  xy: 179, 2
+  size: 89, 38
+  orig: 245, 165
+  offset: 77, 7
+  index: -1
+Pirate_tx01_001_4
+  rotate: false
+  xy: 738, 228
+  size: 81, 40
+  orig: 245, 165
+  offset: 112, 5
+  index: -1
+Pirate_tx01_001_5
+  rotate: false
+  xy: 282, 2
+  size: 76, 34
+  orig: 245, 165
+  offset: 146, 11
+  index: -1
+Pirate_tx01_001_6
+  rotate: false
+  xy: 554, 4
+  size: 46, 19
+  orig: 245, 165
+  offset: 182, 26
+  index: -1
+Pirate_tx01_004
+  rotate: true
+  xy: 592, 451
+  size: 137, 141
+  orig: 246, 160
+  offset: 77, 14
+  index: -1
+Pirate_tx01_005
+  rotate: false
+  xy: 547, 310
+  size: 122, 139
+  orig: 246, 160
+  offset: 109, 16
+  index: -1
+Pirate_tx01_007
+  rotate: true
+  xy: 423, 2
+  size: 34, 66
+  orig: 246, 160
+  offset: 201, 76
+  index: -1
+fire_tx01_000
+  rotate: false
+  xy: 738, 195
+  size: 80, 31
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_001
+  rotate: false
+  xy: 688, 163
+  size: 80, 30
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_002
+  rotate: false
+  xy: 688, 131
+  size: 80, 30
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_003
+  rotate: false
+  xy: 697, 99
+  size: 80, 30
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_004
+  rotate: false
+  xy: 697, 67
+  size: 80, 30
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_005
+  rotate: false
+  xy: 697, 35
+  size: 80, 30
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_006
+  rotate: false
+  xy: 694, 4
+  size: 80, 29
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_007
+  rotate: true
+  xy: 842, 61
+  size: 80, 30
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_008
+  rotate: false
+  xy: 798, 542
+  size: 80, 31
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_009
+  rotate: false
+  xy: 798, 509
+  size: 80, 31
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_010
+  rotate: false
+  xy: 798, 476
+  size: 80, 31
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+fire_tx01_011
+  rotate: true
+  xy: 885, 369
+  size: 80, 30
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+hammer_Backdrop3
+  rotate: false
+  xy: 546, 120
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+hammer_Panel
+  rotate: true
+  xy: 388, 308
+  size: 269, 94
+  orig: 425, 285
+  offset: 78, 0
+  index: -1
+monkey2_tx01_001
+  rotate: false
+  xy: 879, 275
+  size: 43, 44
+  orig: 231, 103
+  offset: 49, 3
+  index: -1
+monkey2_tx01_003
+  rotate: true
+  xy: 65, 2
+  size: 89, 49
+  orig: 231, 103
+  offset: 67, 2
+  index: -1
+monkey2_tx01_004
+  rotate: false
+  xy: 738, 270
+  size: 76, 49
+  orig: 231, 103
+  offset: 100, 2
+  index: -1
+monkey2_tx01_005
+  rotate: true
+  xy: 833, 143
+  size: 50, 44
+  orig: 231, 103
+  offset: 132, 6
+  index: -1
+monkey3_tx01_005
+  rotate: true
+  xy: 885, 321
+  size: 46, 45
+  orig: 231, 103
+  offset: 48, 4
+  index: -1
+monkey3_tx01_008
+  rotate: false
+  xy: 546, 64
+  size: 86, 54
+  orig: 231, 103
+  offset: 97, 3
+  index: -1
+monkey_Backdrop
+  rotate: false
+  xy: 65, 579
+  size: 462, 147
+  orig: 462, 206
+  offset: 0, 59
+  index: -1
+pirate_ghost_ship
+  rotate: false
+  xy: 65, 728
+  size: 472, 294
+  orig: 491, 319
+  offset: 0, 25
+  index: -1
+
+board_lan/[lan]/board_lan.atlas

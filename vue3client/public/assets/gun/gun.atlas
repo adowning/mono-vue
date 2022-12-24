@@ -1,0 +1,629 @@
+
+gun.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gun2_fire
+  rotate: true
+  xy: 633, 449
+  size: 61, 108
+  orig: 88, 135
+  offset: 14, 14
+  index: -1
+Gun2_fire_1
+  rotate: true
+  xy: 743, 449
+  size: 61, 108
+  orig: 88, 135
+  offset: 14, 14
+  index: -1
+Gun_fire
+  rotate: false
+  xy: 2, 150
+  size: 76, 116
+  orig: 76, 116
+  offset: 0, 0
+  index: -1
+Gun_fire_1
+  rotate: false
+  xy: 225, 394
+  size: 76, 116
+  orig: 76, 116
+  offset: 0, 0
+  index: -1
+gun1/Gun_1_barrel
+  rotate: true
+  xy: 853, 372
+  size: 70, 93
+  orig: 75, 133
+  offset: 2, 36
+  index: -1
+gun1/Gun_1_base
+  rotate: false
+  xy: 948, 356
+  size: 74, 74
+  orig: 78, 76
+  offset: 2, 1
+  index: -1
+gun1/Gun_1_base_inner
+  rotate: false
+  xy: 853, 444
+  size: 94, 66
+  orig: 96, 69
+  offset: 1, 1
+  index: -1
+gun1/Gun_1_double_left
+  rotate: true
+  xy: 282, 185
+  size: 43, 87
+  orig: 48, 92
+  offset: 2, 2
+  index: -1
+gun1/Gun_1_powercell_left
+  rotate: false
+  xy: 611, 372
+  size: 20, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+gun1/Gun_1_wing_left
+  rotate: false
+  xy: 126, 94
+  size: 36, 77
+  orig: 37, 80
+  offset: 0, 2
+  index: -1
+gun1/gun1_guan
+  rotate: false
+  xy: 444, 330
+  size: 70, 53
+  orig: 75, 133
+  offset: 2, 76
+  index: -1
+gun1/gun1_guan2
+  rotate: false
+  xy: 86, 43
+  size: 43, 29
+  orig: 48, 92
+  offset: 2, 60
+  index: -1
+gun2/Gun 2_000
+  rotate: false
+  xy: 226, 329
+  size: 92, 63
+  orig: 92, 67
+  offset: 0, 0
+  index: -1
+gun2/Gun 2_001
+  rotate: false
+  xy: 611, 392
+  size: 20, 31
+  orig: 27, 32
+  offset: 3, 1
+  index: -1
+gun2/Gun2_guang_000
+  rotate: false
+  xy: 2, 368
+  size: 124, 142
+  orig: 230, 163
+  offset: 53, 11
+  index: -1
+gun2/Gun_2_barrel
+  rotate: true
+  xy: 442, 246
+  size: 40, 64
+  orig: 42, 66
+  offset: 1, 1
+  index: -1
+gun2/Gun_2_barrel_fire
+  rotate: false
+  xy: 371, 182
+  size: 40, 46
+  orig: 42, 66
+  offset: 1, 19
+  index: -1
+gun2/Gun_2_barrel_light
+  rotate: true
+  xy: 201, 61
+  size: 20, 56
+  orig: 22, 61
+  offset: 0, 5
+  index: -1
+gun2/Gun_2_barrelpanel_left
+  rotate: false
+  xy: 164, 104
+  size: 35, 67
+  orig: 36, 69
+  offset: 0, 1
+  index: -1
+gun2/Gun_2_base
+  rotate: false
+  xy: 545, 425
+  size: 86, 85
+  orig: 88, 89
+  offset: 1, 2
+  index: -1
+gun2/Gun_2_base_light
+  rotate: true
+  xy: 516, 319
+  size: 64, 33
+  orig: 69, 36
+  offset: 3, 1
+  index: -1
+gun2/Gun_2_base_panel
+  rotate: true
+  xy: 86, 74
+  size: 82, 38
+  orig: 84, 39
+  offset: 1, 0
+  index: -1
+gun2/Gun_2_base_panel_double
+  rotate: true
+  xy: 80, 158
+  size: 108, 38
+  orig: 112, 42
+  offset: 2, 2
+  index: -1
+gun2/Gun_2_base_pipe_left
+  rotate: false
+  xy: 329, 113
+  size: 45, 48
+  orig: 47, 50
+  offset: 1, 1
+  index: -1
+gun2/Gun_2_double_barrel_left
+  rotate: true
+  xy: 457, 385
+  size: 36, 83
+  orig: 38, 85
+  offset: 1, 0
+  index: -1
+gun2/Gun_2_double_barrel_left_fire
+  rotate: false
+  xy: 574, 261
+  size: 36, 56
+  orig: 38, 85
+  offset: 1, 27
+  index: -1
+gun2/Gun_2_double_barrel_mid
+  rotate: false
+  xy: 282, 230
+  size: 17, 15
+  orig: 20, 19
+  offset: 2, 2
+  index: -1
+gun2/Gun_2_panel_right
+  rotate: true
+  xy: 569, 221
+  size: 38, 43
+  orig: 40, 45
+  offset: 1, 1
+  index: -1
+gun3/Gun 3_000
+  rotate: false
+  xy: 164, 72
+  size: 35, 30
+  orig: 46, 42
+  offset: 5, 5
+  index: -1
+gun3/Gun3_double_sidepanel
+  rotate: false
+  xy: 904, 281
+  size: 31, 34
+  orig: 33, 36
+  offset: 1, 1
+  index: -1
+gun3/Gun_3_barrel
+  rotate: true
+  xy: 386, 255
+  size: 59, 54
+  orig: 61, 58
+  offset: 1, 2
+  index: -1
+gun3/Gun_3_barrel_fire
+  rotate: true
+  xy: 376, 121
+  size: 59, 53
+  orig: 61, 58
+  offset: 1, 3
+  index: -1
+gun3/Gun_3_base
+  rotate: false
+  xy: 128, 393
+  size: 95, 117
+  orig: 95, 119
+  offset: 0, 2
+  index: -1
+gun3/Gun_3_base_panel
+  rotate: false
+  xy: 633, 384
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+gun3/Gun_3_base_panel_left
+  rotate: false
+  xy: 131, 48
+  size: 31, 44
+  orig: 33, 46
+  offset: 1, 1
+  index: -1
+gun3/Gun_3_base_top_panel_right
+  rotate: true
+  xy: 748, 333
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+gun3/Gun_3_cannon_left
+  rotate: false
+  xy: 320, 313
+  size: 60, 82
+  orig: 61, 82
+  offset: 1, 0
+  index: -1
+gun3/Gun_3_cannon_left_fire
+  rotate: false
+  xy: 382, 316
+  size: 60, 82
+  orig: 61, 82
+  offset: 1, 0
+  index: -1
+gun4/Gun 4_000
+  rotate: true
+  xy: 261, 116
+  size: 45, 66
+  orig: 71, 97
+  offset: 9, 15
+  index: -1
+gun4/Gun_4_body
+  rotate: false
+  xy: 2, 268
+  size: 122, 98
+  orig: 124, 102
+  offset: 1, 2
+  index: -1
+gun4/Gun_4_bottom_panel_right
+  rotate: false
+  xy: 408, 231
+  size: 29, 22
+  orig: 31, 23
+  offset: 1, 0
+  index: -1
+gun4/Gun_4_cannon
+  rotate: false
+  xy: 262, 72
+  size: 57, 42
+  orig: 59, 45
+  offset: 1, 1
+  index: -1
+gun4/Gun_4_cannon_fire
+  rotate: false
+  xy: 321, 69
+  size: 57, 42
+  orig: 59, 45
+  offset: 1, 1
+  index: -1
+gun4/Gun_4_double_cannon_left
+  rotate: true
+  xy: 164, 25
+  size: 45, 35
+  orig: 47, 38
+  offset: 1, 1
+  index: -1
+gun4/Gun_4_double_cannon_left_fire
+  rotate: false
+  xy: 801, 318
+  size: 45, 35
+  orig: 47, 38
+  offset: 1, 1
+  index: -1
+gun4/Gun_4_double_top
+  rotate: false
+  xy: 282, 163
+  size: 76, 20
+  orig: 78, 21
+  offset: 1, 1
+  index: -1
+gun4/Gun_4_small_panel_left
+  rotate: false
+  xy: 114, 2
+  size: 40, 39
+  orig: 42, 44
+  offset: 1, 2
+  index: -1
+gun4/Gun_4_top_panel_left
+  rotate: true
+  xy: 444, 288
+  size: 40, 67
+  orig: 44, 68
+  offset: 2, 0
+  index: -1
+gun4/Gun_4_water
+  rotate: false
+  xy: 904, 317
+  size: 31, 53
+  orig: 34, 56
+  offset: 2, 1
+  index: -1
+gun4/Gun_4_water_bubble
+  rotate: false
+  xy: 202, 250
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+gun4/Gun_4_watertank
+  rotate: true
+  xy: 303, 255
+  size: 56, 81
+  orig: 58, 83
+  offset: 1, 1
+  index: -1
+gun5/Gun5_000
+  rotate: false
+  xy: 128, 344
+  size: 96, 47
+  orig: 111, 54
+  offset: 7, 2
+  index: -1
+gun5/Gun5guang_000
+  rotate: false
+  xy: 256, 12
+  size: 43, 31
+  orig: 94, 66
+  offset: 26, 15
+  index: -1
+gun5/Gun_5_base
+  rotate: false
+  xy: 457, 423
+  size: 86, 87
+  orig: 89, 90
+  offset: 1, 1
+  index: -1
+gun5/Gun_5_base_top_panel
+  rotate: false
+  xy: 748, 363
+  size: 51, 45
+  orig: 53, 46
+  offset: 1, 0
+  index: -1
+gun5/Gun_5_cannon
+  rotate: true
+  xy: 801, 355
+  size: 53, 41
+  orig: 54, 42
+  offset: 1, 1
+  index: -1
+gun5/Gun_5_cannon_cover_left
+  rotate: false
+  xy: 380, 400
+  size: 75, 110
+  orig: 77, 113
+  offset: 2, 1
+  index: -1
+gun5/Gun_5_cannon_fire
+  rotate: false
+  xy: 201, 18
+  size: 53, 41
+  orig: 54, 42
+  offset: 1, 1
+  index: -1
+gun5/Gun_5_double_cannon_left
+  rotate: true
+  xy: 513, 273
+  size: 44, 59
+  orig: 46, 61
+  offset: 1, 1
+  index: -1
+gun5/Gun_5_double_cannon_left_fire
+  rotate: true
+  xy: 508, 227
+  size: 44, 59
+  orig: 46, 61
+  offset: 1, 1
+  index: -1
+gun6/Gun 6_000
+  rotate: false
+  xy: 79, 47
+  size: 5, 101
+  orig: 21, 112
+  offset: 7, 5
+  index: -1
+gun6/Gun_6_body
+  rotate: true
+  xy: 215, 247
+  size: 80, 86
+  orig: 83, 88
+  offset: 1, 0
+  index: -1
+gun6/Gun_6_double_cannon_left
+  rotate: false
+  xy: 380, 65
+  size: 54, 54
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+gun6/Gun_6_double_cannon_left_fire
+  rotate: false
+  xy: 692, 354
+  size: 54, 54
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+gun6/Gun_6_double_side_left
+  rotate: true
+  xy: 201, 83
+  size: 30, 59
+  orig: 32, 61
+  offset: 1, 1
+  index: -1
+gun6/Gun_6_side_panel_left
+  rotate: false
+  xy: 2, 35
+  size: 75, 113
+  orig: 77, 115
+  offset: 2, 1
+  index: -1
+gun6/Gun_6_side_panel_left_fire
+  rotate: false
+  xy: 303, 397
+  size: 75, 113
+  orig: 77, 115
+  offset: 2, 1
+  index: -1
+gun6/Gun_6_side_top_panel_left
+  rotate: true
+  xy: 633, 410
+  size: 37, 108
+  orig: 42, 111
+  offset: 2, 1
+  index: -1
+gun6/Gun_6_side_top_panel_left_fire
+  rotate: true
+  xy: 743, 410
+  size: 37, 108
+  orig: 42, 111
+  offset: 2, 1
+  index: -1
+gun6/baozha1_000
+  rotate: false
+  xy: 993, 295
+  size: 29, 28
+  orig: 126, 117
+  offset: 47, 41
+  index: -1
+gun6/baozha1_001
+  rotate: false
+  xy: 201, 115
+  size: 58, 55
+  orig: 126, 117
+  offset: 33, 28
+  index: -1
+gun6/baozha1_002
+  rotate: false
+  xy: 949, 432
+  size: 73, 78
+  orig: 126, 117
+  offset: 25, 16
+  index: -1
+gun6/baozha1_003
+  rotate: true
+  xy: 126, 262
+  size: 80, 87
+  orig: 126, 117
+  offset: 24, 12
+  index: -1
+gun6/baozha2_000
+  rotate: true
+  xy: 413, 200
+  size: 29, 28
+  orig: 126, 117
+  offset: 47, 41
+  index: -1
+gun6/baozha2_001
+  rotate: false
+  xy: 551, 368
+  size: 58, 55
+  orig: 126, 117
+  offset: 33, 28
+  index: -1
+gun6/baozha2_002
+  rotate: true
+  xy: 202, 172
+  size: 73, 78
+  orig: 126, 117
+  offset: 25, 16
+  index: -1
+gun6/baozha2_003
+  rotate: false
+  xy: 120, 173
+  size: 80, 87
+  orig: 126, 117
+  offset: 24, 12
+  index: -1
+gun6/diguang_000
+  rotate: true
+  xy: 2, 2
+  size: 31, 54
+  orig: 59, 72
+  offset: 14, 15
+  index: -1
+gun6/diguang_001
+  rotate: true
+  xy: 58, 2
+  size: 31, 54
+  orig: 59, 72
+  offset: 14, 15
+  index: -1
+gun6/diguang_002
+  rotate: true
+  xy: 848, 339
+  size: 31, 54
+  orig: 59, 72
+  offset: 14, 15
+  index: -1
+gun6/diguang_003
+  rotate: true
+  xy: 848, 306
+  size: 31, 54
+  orig: 59, 72
+  offset: 14, 15
+  index: -1
+gun6/diguang_004
+  rotate: true
+  xy: 937, 300
+  size: 24, 54
+  orig: 59, 72
+  offset: 19, 15
+  index: -1
+gun6/diguang_005
+  rotate: true
+  xy: 259, 45
+  size: 25, 54
+  orig: 59, 72
+  offset: 20, 15
+  index: -1
+gun6/diguang_006
+  rotate: true
+  xy: 937, 326
+  size: 28, 54
+  orig: 59, 72
+  offset: 17, 15
+  index: -1
+gun6/guang6_1_000
+  rotate: true
+  xy: 551, 319
+  size: 47, 59
+  orig: 173, 121
+  offset: 62, 18
+  index: -1
+gun6/guang6_2_000
+  rotate: true
+  xy: 303, 230
+  size: 23, 103
+  orig: 32, 109
+  offset: 4, 3
+  index: -1
+gun6/lightball_000
+  rotate: false
+  xy: 937, 270
+  size: 28, 28
+  orig: 63, 37
+  offset: 17, 4
+  index: -1
+gun6/lightball_001
+  rotate: false
+  xy: 315, 39
+  size: 28, 28
+  orig: 63, 37
+  offset: 17, 4
+  index: -1
+gun6/lightball_002
+  rotate: false
+  xy: 993, 325
+  size: 29, 29
+  orig: 63, 37
+  offset: 17, 4
+  index: -1

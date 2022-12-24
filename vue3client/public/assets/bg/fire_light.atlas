@@ -1,0 +1,292 @@
+
+fire_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light/fire_000
+  rotate: false
+  xy: 708, 508
+  size: 66, 243
+  orig: 92, 243
+  offset: 26, 0
+  index: -1
+bg_light/fire_001
+  rotate: false
+  xy: 400, 508
+  size: 67, 243
+  orig: 92, 243
+  offset: 25, 0
+  index: -1
+bg_light/fire_002
+  rotate: false
+  xy: 477, 508
+  size: 67, 243
+  orig: 92, 243
+  offset: 25, 0
+  index: -1
+bg_light/fire_003
+  rotate: true
+  xy: 263, 221
+  size: 67, 243
+  orig: 92, 243
+  offset: 25, 0
+  index: -1
+bg_light/fire_004
+  rotate: false
+  xy: 554, 508
+  size: 67, 243
+  orig: 92, 243
+  offset: 25, 0
+  index: -1
+bg_light/fire_005
+  rotate: false
+  xy: 10, 508
+  size: 68, 243
+  orig: 92, 243
+  offset: 24, 0
+  index: -1
+bg_light/fire_006
+  rotate: false
+  xy: 88, 508
+  size: 68, 243
+  orig: 92, 243
+  offset: 24, 0
+  index: -1
+bg_light/fire_007
+  rotate: false
+  xy: 166, 508
+  size: 68, 243
+  orig: 92, 243
+  offset: 24, 0
+  index: -1
+bg_light/fire_008
+  rotate: false
+  xy: 244, 508
+  size: 68, 243
+  orig: 92, 243
+  offset: 24, 0
+  index: -1
+bg_light/fire_009
+  rotate: true
+  xy: 10, 220
+  size: 68, 243
+  orig: 92, 243
+  offset: 24, 0
+  index: -1
+bg_light/fire_010
+  rotate: false
+  xy: 322, 508
+  size: 68, 243
+  orig: 92, 243
+  offset: 24, 0
+  index: -1
+bg_light/fire_011
+  rotate: false
+  xy: 631, 508
+  size: 67, 243
+  orig: 92, 243
+  offset: 25, 0
+  index: -1
+bg_light/fire_012
+  rotate: true
+  xy: 516, 222
+  size: 66, 243
+  orig: 92, 243
+  offset: 26, 0
+  index: -1
+bg_light/fire_013
+  rotate: false
+  xy: 784, 508
+  size: 66, 243
+  orig: 92, 243
+  offset: 26, 0
+  index: -1
+bg_light/fire_014
+  rotate: false
+  xy: 860, 508
+  size: 66, 243
+  orig: 92, 243
+  offset: 26, 0
+  index: -1
+bg_light/fire_015
+  rotate: false
+  xy: 936, 508
+  size: 66, 243
+  orig: 92, 243
+  offset: 26, 0
+  index: -1
+bg_light/fire_016
+  rotate: true
+  xy: 769, 222
+  size: 66, 243
+  orig: 92, 243
+  offset: 26, 0
+  index: -1
+
+fire_light2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light/fire1_000
+  rotate: true
+  xy: 161, 601
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_001
+  rotate: true
+  xy: 511, 601
+  size: 147, 59
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_002
+  rotate: true
+  xy: 543, 234
+  size: 147, 59
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_003
+  rotate: true
+  xy: 580, 601
+  size: 147, 59
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_004
+  rotate: false
+  xy: 856, 690
+  size: 146, 58
+  orig: 147, 61
+  offset: 1, 0
+  index: -1
+bg_light/fire1_005
+  rotate: false
+  xy: 856, 412
+  size: 146, 58
+  orig: 147, 61
+  offset: 1, 0
+  index: -1
+bg_light/fire1_006
+  rotate: true
+  xy: 681, 235
+  size: 146, 59
+  orig: 147, 61
+  offset: 1, 0
+  index: -1
+bg_light/fire1_007
+  rotate: true
+  xy: 718, 602
+  size: 146, 59
+  orig: 147, 61
+  offset: 1, 0
+  index: -1
+bg_light/fire1_008
+  rotate: true
+  xy: 750, 236
+  size: 146, 59
+  orig: 147, 61
+  offset: 1, 0
+  index: -1
+bg_light/fire1_009
+  rotate: true
+  xy: 787, 602
+  size: 146, 59
+  orig: 147, 61
+  offset: 1, 0
+  index: -1
+bg_light/fire1_010
+  rotate: true
+  xy: 231, 601
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_011
+  rotate: true
+  xy: 263, 234
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_012
+  rotate: true
+  xy: 301, 601
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_013
+  rotate: true
+  xy: 333, 234
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_014
+  rotate: true
+  xy: 371, 601
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_015
+  rotate: true
+  xy: 403, 234
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_016
+  rotate: true
+  xy: 612, 234
+  size: 147, 59
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_017
+  rotate: true
+  xy: 649, 601
+  size: 147, 59
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_018
+  rotate: true
+  xy: 441, 601
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire1_019
+  rotate: true
+  xy: 473, 234
+  size: 147, 60
+  orig: 147, 61
+  offset: 0, 0
+  index: -1
+bg_light/fire_017
+  rotate: true
+  xy: 10, 220
+  size: 65, 243
+  orig: 92, 243
+  offset: 27, 0
+  index: -1
+bg_light/fire_018
+  rotate: false
+  xy: 86, 505
+  size: 65, 243
+  orig: 92, 243
+  offset: 27, 0
+  index: -1
+bg_light/fire_019
+  rotate: false
+  xy: 10, 505
+  size: 66, 243
+  orig: 92, 243
+  offset: 26, 0
+  index: -1

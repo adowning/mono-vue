@@ -1,0 +1,249 @@
+
+ice_bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light/ice_003
+  rotate: false
+  xy: 60, 60
+  size: 115, 108
+  orig: 432, 243
+  offset: 178, 86
+  index: -1
+bg_light/ice_009
+  rotate: true
+  xy: 808, 101
+  size: 256, 156
+  orig: 432, 243
+  offset: 176, 87
+  index: -1
+bg_light/ice_017
+  rotate: false
+  xy: 235, 69
+  size: 154, 99
+  orig: 432, 243
+  offset: 258, 141
+  index: -1
+bg_light/ice_018
+  rotate: false
+  xy: 449, 71
+  size: 145, 97
+  orig: 432, 243
+  offset: 256, 141
+  index: -1
+revise/revise_001
+  rotate: true
+  xy: 666, 296
+  size: 61, 65
+  orig: 432, 243
+  offset: 186, 89
+  index: -1
+revise/revise_003
+  rotate: false
+  xy: 654, 71
+  size: 94, 97
+  orig: 432, 243
+  offset: 169, 73
+  index: -1
+revise/revise_011
+  rotate: false
+  xy: 666, 417
+  size: 290, 243
+  orig: 432, 243
+  offset: 71, 0
+  index: -1
+revise/revise_015
+  rotate: false
+  xy: 552, 720
+  size: 400, 243
+  orig: 432, 243
+  offset: 16, 0
+  index: -1
+revise/revise_017
+  rotate: false
+  xy: 60, 720
+  size: 432, 243
+  orig: 432, 243
+  offset: 0, 0
+  index: -1
+revise/revise_019
+  rotate: true
+  xy: 60, 228
+  size: 432, 243
+  orig: 432, 243
+  offset: 0, 0
+  index: -1
+revise/revise_021
+  rotate: true
+  xy: 363, 228
+  size: 432, 243
+  orig: 432, 243
+  offset: 0, 0
+  index: -1
+
+ice_bg2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light/ice_000
+  rotate: false
+  xy: 854, 335
+  size: 18, 18
+  orig: 432, 243
+  offset: 207, 113
+  index: -1
+bg_light/ice_001
+  rotate: false
+  xy: 868, 413
+  size: 54, 53
+  orig: 432, 243
+  offset: 190, 97
+  index: -1
+bg_light/ice_002
+  rotate: true
+  xy: 868, 526
+  size: 90, 87
+  orig: 432, 243
+  offset: 178, 85
+  index: -1
+bg_light/ice_007
+  rotate: false
+  xy: 574, 241
+  size: 220, 157
+  orig: 432, 243
+  offset: 176, 85
+  index: -1
+bg_light/ice_008
+  rotate: true
+  xy: 355, 61
+  size: 252, 159
+  orig: 432, 243
+  offset: 175, 84
+  index: -1
+bg_light/ice_010
+  rotate: false
+  xy: 552, 458
+  size: 256, 158
+  orig: 432, 243
+  offset: 176, 85
+  index: -1
+revise/bai
+  rotate: false
+  xy: 574, 60
+  size: 210, 121
+  orig: 216, 121
+  offset: 3, 0
+  index: -1
+revise/revise_009
+  rotate: false
+  xy: 60, 73
+  size: 235, 240
+  orig: 432, 243
+  offset: 99, 0
+  index: -1
+revise/revise_013
+  rotate: false
+  xy: 552, 676
+  size: 346, 243
+  orig: 432, 243
+  offset: 43, 0
+  index: -1
+revise/revise_023
+  rotate: false
+  xy: 60, 676
+  size: 432, 243
+  orig: 432, 243
+  offset: 0, 0
+  index: -1
+revise/revise_025
+  rotate: false
+  xy: 60, 373
+  size: 432, 243
+  orig: 432, 243
+  offset: 0, 0
+  index: -1
+
+ice_bg3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light/ice_004
+  rotate: false
+  xy: 60, 60
+  size: 138, 126
+  orig: 432, 243
+  offset: 177, 86
+  index: -1
+bg_light/ice_005
+  rotate: false
+  xy: 279, 149
+  size: 165, 149
+  orig: 432, 243
+  offset: 177, 85
+  index: -1
+bg_light/ice_006
+  rotate: false
+  xy: 561, 801
+  size: 195, 154
+  orig: 432, 243
+  offset: 176, 85
+  index: -1
+bg_light/ice_011
+  rotate: true
+  xy: 60, 498
+  size: 209, 159
+  orig: 432, 243
+  offset: 223, 84
+  index: -1
+bg_light/ice_012
+  rotate: false
+  xy: 304, 796
+  size: 197, 159
+  orig: 432, 243
+  offset: 235, 84
+  index: -1
+bg_light/ice_013
+  rotate: true
+  xy: 60, 246
+  size: 192, 159
+  orig: 432, 243
+  offset: 240, 84
+  index: -1
+bg_light/ice_014
+  rotate: false
+  xy: 279, 358
+  size: 173, 159
+  orig: 432, 243
+  offset: 256, 84
+  index: -1
+bg_light/ice_015
+  rotate: false
+  xy: 304, 577
+  size: 175, 159
+  orig: 432, 243
+  offset: 257, 84
+  index: -1
+bg_light/ice_016
+  rotate: true
+  xy: 512, 356
+  size: 161, 158
+  orig: 432, 243
+  offset: 256, 84
+  index: -1
+revise/revise_005
+  rotate: false
+  xy: 816, 815
+  size: 136, 140
+  orig: 432, 243
+  offset: 148, 51
+  index: -1
+revise/revise_007
+  rotate: false
+  xy: 60, 767
+  size: 184, 188
+  orig: 432, 243
+  offset: 124, 27
+  index: -1

@@ -1,0 +1,160 @@
+
+bg_transition.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SeaWave
+  rotate: true
+  xy: 453, 238
+  size: 144, 203
+  orig: 360, 203
+  offset: 120, 0
+  index: -1
+wave_000
+  rotate: false
+  xy: 742, 133
+  size: 52, 123
+  orig: 360, 203
+  offset: 308, 4
+  index: -1
+wave_001
+  rotate: true
+  xy: 550, 34
+  size: 75, 124
+  orig: 360, 203
+  offset: 285, 3
+  index: -1
+wave_002
+  rotate: true
+  xy: 423, 14
+  size: 95, 125
+  orig: 360, 203
+  offset: 265, 2
+  index: -1
+wave_003
+  rotate: false
+  xy: 626, 111
+  size: 114, 125
+  orig: 360, 203
+  offset: 246, 2
+  index: -1
+wave_004
+  rotate: false
+  xy: 796, 130
+  size: 136, 125
+  orig: 360, 203
+  offset: 224, 2
+  index: -1
+wave_005
+  rotate: false
+  xy: 862, 383
+  size: 156, 125
+  orig: 360, 203
+  offset: 204, 2
+  index: -1
+wave_006
+  rotate: false
+  xy: 447, 111
+  size: 177, 125
+  orig: 360, 203
+  offset: 183, 2
+  index: -1
+wave_007
+  rotate: false
+  xy: 225, 2
+  size: 196, 125
+  orig: 360, 203
+  offset: 164, 2
+  index: -1
+wave_008
+  rotate: false
+  xy: 227, 129
+  size: 218, 125
+  orig: 360, 203
+  offset: 142, 2
+  index: -1
+wave_009
+  rotate: false
+  xy: 2, 129
+  size: 223, 125
+  orig: 360, 203
+  offset: 124, 2
+  index: -1
+wave_010
+  rotate: false
+  xy: 2, 2
+  size: 221, 125
+  orig: 360, 203
+  offset: 103, 2
+  index: -1
+wave_011
+  rotate: false
+  xy: 229, 256
+  size: 222, 126
+  orig: 360, 203
+  offset: 81, 1
+  index: -1
+wave_012
+  rotate: false
+  xy: 2, 383
+  size: 225, 125
+  orig: 360, 203
+  offset: 61, 2
+  index: -1
+wave_013
+  rotate: false
+  xy: 2, 256
+  size: 225, 125
+  orig: 360, 203
+  offset: 41, 1
+  index: -1
+wave_014
+  rotate: false
+  xy: 229, 384
+  size: 225, 124
+  orig: 360, 203
+  offset: 20, 2
+  index: -1
+wave_015
+  rotate: false
+  xy: 456, 384
+  size: 213, 124
+  orig: 360, 203
+  offset: 3, 2
+  index: -1
+wave_016
+  rotate: false
+  xy: 671, 384
+  size: 189, 124
+  orig: 360, 203
+  offset: 0, 2
+  index: -1
+wave_017
+  rotate: false
+  xy: 658, 258
+  size: 179, 124
+  orig: 360, 203
+  offset: 0, 2
+  index: -1
+wave_018
+  rotate: false
+  xy: 839, 257
+  size: 161, 124
+  orig: 360, 203
+  offset: 0, 2
+  index: -1
+wave_019
+  rotate: false
+  xy: 742, 4
+  size: 133, 124
+  orig: 360, 203
+  offset: 0, 2
+  index: -1
+wave_020
+  rotate: true
+  xy: 877, 4
+  size: 124, 121
+  orig: 360, 203
+  offset: 0, 3
+  index: -1

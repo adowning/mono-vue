@@ -1,0 +1,573 @@
+
+pirateship_boom.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ship2/Pirate Ghost Ship Die_000
+  rotate: false
+  xy: 200, 611
+  size: 452, 307
+  orig: 684, 385
+  offset: 73, 0
+  index: -1
+ship3/ghost ship wait3_000
+  rotate: false
+  xy: 200, 611
+  size: 452, 307
+  orig: 684, 385
+  offset: 73, 0
+  index: -1
+ship3/ghost ship wait3_001
+  rotate: true
+  xy: 200, 100
+  size: 451, 311
+  orig: 684, 385
+  offset: 73, 0
+  index: -1
+smallboom/xiaobaozha_000
+  rotate: true
+  xy: 711, 60
+  size: 124, 112
+  orig: 125, 128
+  offset: 0, 9
+  index: -1
+smallboom/xiaobaozha_001
+  rotate: true
+  xy: 711, 426
+  size: 125, 113
+  orig: 125, 128
+  offset: 0, 9
+  index: -1
+smallboom/xiaobaozha_002
+  rotate: true
+  xy: 711, 244
+  size: 122, 113
+  orig: 125, 128
+  offset: 0, 9
+  index: -1
+
+pirateship_boom2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave/Pirate Ghost Ship exp_003
+  rotate: true
+  xy: 717, 176
+  size: 111, 92
+  orig: 342, 192
+  offset: 108, 45
+  index: -1
+ship2/Pirate Ghost Ship Die_001
+  rotate: false
+  xy: 200, 655
+  size: 451, 308
+  orig: 684, 385
+  offset: 73, 0
+  index: -1
+ship3/ghost ship wait3_003
+  rotate: true
+  xy: 200, 145
+  size: 450, 317
+  orig: 684, 385
+  offset: 73, 1
+  index: -1
+smallboom/xiaobaozha_006
+  rotate: true
+  xy: 717, 480
+  size: 115, 100
+  orig: 125, 128
+  offset: 1, 12
+  index: -1
+smallboom/xiaobaozha_008
+  rotate: false
+  xy: 717, 347
+  size: 100, 73
+  orig: 125, 128
+  offset: 9, 23
+  index: -1
+smallboom/xiaobaozha_010
+  rotate: true
+  xy: 717, 60
+  size: 56, 37
+  orig: 125, 128
+  offset: 32, 44
+  index: -1
+
+pirateship_boom3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fupao_000
+  rotate: false
+  xy: 728, 459
+  size: 90, 135
+  orig: 217, 219
+  offset: 67, 34
+  index: -1
+leave/Pirate Ghost Ship exp_000
+  rotate: true
+  xy: 728, 60
+  size: 58, 33
+  orig: 342, 192
+  offset: 129, 76
+  index: -1
+leave/Pirate Ghost Ship exp_001
+  rotate: false
+  xy: 728, 178
+  size: 73, 50
+  orig: 342, 192
+  offset: 123, 68
+  index: -1
+ship2/Pirate Ghost Ship Die_023
+  rotate: false
+  xy: 200, 654
+  size: 450, 309
+  orig: 684, 385
+  offset: 73, 0
+  index: -1
+ship3/ghost ship wait3_005
+  rotate: true
+  xy: 200, 146
+  size: 448, 328
+  orig: 684, 385
+  offset: 72, 2
+  index: -1
+smallboom/xiaobaozha_007
+  rotate: true
+  xy: 728, 288
+  size: 111, 86
+  orig: 125, 128
+  offset: 3, 14
+  index: -1
+
+pirateship_boom4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave/Pirate Ghost Ship exp_005
+  rotate: false
+  xy: 528, 494
+  size: 138, 119
+  orig: 342, 192
+  offset: 101, 28
+  index: -1
+leave/Pirate Ghost Ship exp_007
+  rotate: false
+  xy: 200, 295
+  size: 171, 139
+  orig: 342, 192
+  offset: 72, 24
+  index: -1
+light/Pirate Ghost Ship leave_002
+  rotate: false
+  xy: 200, 60
+  size: 233, 158
+  orig: 342, 192
+  offset: 36, 0
+  index: -1
+light/Pirate Ghost Ship leave_004
+  rotate: false
+  xy: 571, 278
+  size: 234, 156
+  orig: 342, 192
+  offset: 35, 0
+  index: -1
+smallboom/xiaobaozha_003
+  rotate: false
+  xy: 519, 673
+  size: 122, 112
+  orig: 125, 128
+  offset: 0, 10
+  index: -1
+smallboom/xiaobaozha_004
+  rotate: false
+  xy: 200, 676
+  size: 119, 109
+  orig: 125, 128
+  offset: 2, 11
+  index: -1
+smallboom/xiaobaozha_005
+  rotate: false
+  xy: 462, 845
+  size: 114, 108
+  orig: 125, 128
+  offset: 2, 11
+  index: -1
+smallboom/xiaobaozha_009
+  rotate: false
+  xy: 200, 907
+  size: 62, 46
+  orig: 125, 128
+  offset: 30, 36
+  index: -1
+zhupao_000
+  rotate: false
+  xy: 200, 498
+  size: 128, 115
+  orig: 311, 217
+  offset: 85, 49
+  index: -1
+
+pirateship_boom5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave/Pirate Ghost Ship exp_009
+  rotate: true
+  xy: 633, 619
+  size: 195, 160
+  orig: 342, 192
+  offset: 55, 16
+  index: -1
+leave/Pirate Ghost Ship exp_011
+  rotate: true
+  xy: 629, 350
+  size: 209, 171
+  orig: 342, 192
+  offset: 46, 11
+  index: -1
+leave/Pirate Ghost Ship exp_013
+  rotate: false
+  xy: 200, 191
+  size: 228, 184
+  orig: 342, 192
+  offset: 33, 6
+  index: -1
+light/Pirate Ghost Ship leave_000
+  rotate: false
+  xy: 200, 435
+  size: 229, 161
+  orig: 342, 192
+  offset: 38, 0
+  index: -1
+light/Pirate Ghost Ship leave_001
+  rotate: true
+  xy: 628, 60
+  size: 230, 162
+  orig: 342, 192
+  offset: 37, 0
+  index: -1
+light/Pirate Ghost Ship leave_003
+  rotate: false
+  xy: 200, 656
+  size: 233, 158
+  orig: 342, 192
+  offset: 36, 0
+  index: -1
+
+pirateship_boom6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light/Pirate Ghost Ship leave_005
+  rotate: false
+  xy: 200, 712
+  size: 235, 159
+  orig: 342, 192
+  offset: 34, 0
+  index: -1
+light/Pirate Ghost Ship leave_010
+  rotate: false
+  xy: 200, 480
+  size: 234, 172
+  orig: 342, 192
+  offset: 30, 0
+  index: -1
+light/Pirate Ghost Ship leave_011
+  rotate: true
+  xy: 635, 641
+  size: 230, 177
+  orig: 342, 192
+  offset: 28, 3
+  index: -1
+light/Pirate Ghost Ship leave_012
+  rotate: false
+  xy: 200, 242
+  size: 231, 178
+  orig: 342, 192
+  offset: 28, 2
+  index: -1
+light/Pirate Ghost Ship leave_013
+  rotate: true
+  xy: 634, 351
+  size: 230, 178
+  orig: 342, 192
+  offset: 27, 4
+  index: -1
+light/Pirate Ghost Ship leave_014
+  rotate: true
+  xy: 631, 60
+  size: 231, 180
+  orig: 342, 192
+  offset: 27, 3
+  index: -1
+
+pirateship_boom7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave/Pirate Ghost Ship exp_029
+  rotate: true
+  xy: 636, 375
+  size: 233, 181
+  orig: 342, 192
+  offset: 5, 5
+  index: -1
+light/Pirate Ghost Ship leave_006
+  rotate: false
+  xy: 200, 741
+  size: 236, 159
+  orig: 342, 192
+  offset: 33, 0
+  index: -1
+light/Pirate Ghost Ship leave_007
+  rotate: false
+  xy: 200, 517
+  size: 236, 164
+  orig: 342, 192
+  offset: 33, 0
+  index: -1
+light/Pirate Ghost Ship leave_008
+  rotate: false
+  xy: 200, 292
+  size: 236, 165
+  orig: 342, 192
+  offset: 32, 0
+  index: -1
+light/Pirate Ghost Ship leave_009
+  rotate: false
+  xy: 200, 60
+  size: 236, 172
+  orig: 342, 192
+  offset: 30, 0
+  index: -1
+light/Pirate Ghost Ship leave_015
+  rotate: true
+  xy: 636, 668
+  size: 232, 182
+  orig: 342, 192
+  offset: 26, 2
+  index: -1
+light/Pirate Ghost Ship leave_016
+  rotate: true
+  xy: 636, 81
+  size: 234, 183
+  orig: 342, 192
+  offset: 25, 2
+  index: -1
+
+pirateship_boom8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ship3/ghost ship wait3_007
+  rotate: false
+  xy: 200, 561
+  size: 446, 339
+  orig: 684, 385
+  offset: 70, 4
+  index: -1
+ship3/ghost ship wait3_009
+  rotate: true
+  xy: 200, 60
+  size: 441, 340
+  orig: 684, 385
+  offset: 70, 7
+  index: -1
+
+pirateship_boom9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ship2/Pirate Ghost Ship Die_007
+  rotate: false
+  xy: 200, 565
+  size: 442, 318
+  orig: 684, 385
+  offset: 74, 0
+  index: -1
+ship2/Pirate Ghost Ship Die_020
+  rotate: true
+  xy: 200, 60
+  size: 445, 315
+  orig: 684, 385
+  offset: 74, 0
+  index: -1
+
+pirateship_boom10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ship2/Pirate Ghost Ship Die_004
+  rotate: false
+  xy: 200, 558
+  size: 447, 311
+  orig: 684, 385
+  offset: 74, 0
+  index: -1
+ship2/Pirate Ghost Ship Die_017
+  rotate: true
+  xy: 200, 60
+  size: 438, 315
+  orig: 684, 385
+  offset: 75, 1
+  index: -1
+
+pirateship_boom11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ship2/Pirate Ghost Ship Die_011
+  rotate: false
+  xy: 200, 555
+  size: 437, 314
+  orig: 684, 385
+  offset: 75, 1
+  index: -1
+ship2/Pirate Ghost Ship Die_014
+  rotate: true
+  xy: 200, 60
+  size: 435, 312
+  orig: 684, 385
+  offset: 75, 1
+  index: -1
+
+pirateship_boom12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light/Pirate Ghost Ship leave_021
+  rotate: false
+  xy: 200, 60
+  size: 281, 192
+  orig: 342, 192
+  offset: 5, 0
+  index: -1
+light/Pirate Ghost Ship leave_022
+  rotate: true
+  xy: 592, 570
+  size: 292, 192
+  orig: 342, 192
+  offset: 0, 0
+  index: -1
+light/Pirate Ghost Ship leave_023
+  rotate: true
+  xy: 200, 564
+  size: 298, 192
+  orig: 342, 192
+  offset: 0, 0
+  index: -1
+light/Pirate Ghost Ship leave_024
+  rotate: false
+  xy: 200, 312
+  size: 295, 192
+  orig: 342, 192
+  offset: 0, 0
+  index: -1
+
+pirateship_boom13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave/Pirate Ghost Ship exp_021
+  rotate: false
+  xy: 200, 398
+  size: 269, 189
+  orig: 342, 192
+  offset: 10, 3
+  index: -1
+leave/Pirate Ghost Ship exp_023
+  rotate: true
+  xy: 200, 60
+  size: 278, 180
+  orig: 342, 192
+  offset: 7, 2
+  index: -1
+leave/Pirate Ghost Ship exp_025
+  rotate: true
+  xy: 580, 65
+  size: 273, 182
+  orig: 342, 192
+  offset: 11, 4
+  index: -1
+light/Pirate Ghost Ship leave_020
+  rotate: false
+  xy: 200, 647
+  size: 270, 192
+  orig: 342, 192
+  offset: 9, 0
+  index: -1
+
+pirateship_boom14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave/Pirate Ghost Ship exp_019
+  rotate: true
+  xy: 200, 60
+  size: 258, 187
+  orig: 342, 192
+  offset: 16, 2
+  index: -1
+leave/Pirate Ghost Ship exp_027
+  rotate: false
+  xy: 200, 378
+  size: 273, 181
+  orig: 342, 192
+  offset: 8, 5
+  index: -1
+light/Pirate Ghost Ship leave_018
+  rotate: true
+  xy: 587, 69
+  size: 249, 190
+  orig: 342, 192
+  offset: 19, 0
+  index: -1
+light/Pirate Ghost Ship leave_019
+  rotate: false
+  xy: 200, 619
+  size: 260, 189
+  orig: 342, 192
+  offset: 15, 0
+  index: -1
+
+pirateship_boom15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leave/Pirate Ghost Ship exp_015
+  rotate: false
+  xy: 200, 673
+  size: 243, 189
+  orig: 342, 192
+  offset: 23, 3
+  index: -1
+leave/Pirate Ghost Ship exp_017
+  rotate: true
+  xy: 200, 361
+  size: 252, 179
+  orig: 342, 192
+  offset: 19, 3
+  index: -1
+light/Pirate Ghost Ship leave_017
+  rotate: true
+  xy: 200, 60
+  size: 241, 185
+  orig: 342, 192
+  offset: 23, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+coming_lan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4a
+  rotate: false
+  xy: 294, 72
+  size: 306, 181
+  orig: 1440, 810
+  offset: 345, 317
+  index: -1
+4b
+  rotate: false
+  xy: 2, 55
+  size: 290, 198
+  orig: 1440, 810
+  offset: 782, 320
+  index: -1
+liuga_000
+  rotate: true
+  xy: 897, 62
+  size: 74, 90
+  orig: 720, 405
+  offset: 172, 158
+  index: -1
+liuga_001
+  rotate: false
+  xy: 796, 162
+  size: 119, 91
+  orig: 720, 405
+  offset: 173, 158
+  index: -1
+liuga_002
+  rotate: true
+  xy: 602, 116
+  size: 137, 91
+  orig: 720, 405
+  offset: 189, 158
+  index: -1
+liuga_003
+  rotate: true
+  xy: 602, 9
+  size: 105, 91
+  orig: 720, 405
+  offset: 221, 158
+  index: -1
+liuga_004
+  rotate: true
+  xy: 294, 6
+  size: 64, 90
+  orig: 720, 405
+  offset: 262, 159
+  index: -1
+liugb_000
+  rotate: true
+  xy: 796, 4
+  size: 76, 99
+  orig: 720, 405
+  offset: 391, 160
+  index: -1
+liugb_001
+  rotate: true
+  xy: 917, 138
+  size: 115, 99
+  orig: 720, 405
+  offset: 391, 160
+  index: -1
+liugb_002
+  rotate: true
+  xy: 695, 120
+  size: 133, 99
+  orig: 720, 405
+  offset: 395, 160
+  index: -1
+liugb_003
+  rotate: true
+  xy: 695, 2
+  size: 116, 99
+  orig: 720, 405
+  offset: 420, 160
+  index: -1
+liugb_004
+  rotate: true
+  xy: 796, 82
+  size: 78, 99
+  orig: 720, 405
+  offset: 458, 160
+  index: -1

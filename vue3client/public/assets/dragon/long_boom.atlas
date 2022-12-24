@@ -1,0 +1,160 @@
+
+long_boom.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 876, 182
+  size: 80, 72
+  orig: 82, 82
+  offset: 0, 6
+  index: -1
+02
+  rotate: true
+  xy: 79, 14
+  size: 81, 71
+  orig: 82, 82
+  offset: 0, 7
+  index: -1
+03
+  rotate: false
+  xy: 152, 57
+  size: 78, 71
+  orig: 82, 82
+  offset: 1, 7
+  index: -1
+04
+  rotate: false
+  xy: 232, 57
+  size: 78, 71
+  orig: 82, 82
+  offset: 1, 7
+  index: -1
+05
+  rotate: false
+  xy: 312, 72
+  size: 76, 69
+  orig: 82, 82
+  offset: 2, 8
+  index: -1
+06
+  rotate: false
+  xy: 312, 2
+  size: 73, 68
+  orig: 82, 82
+  offset: 2, 8
+  index: -1
+07
+  rotate: false
+  xy: 390, 77
+  size: 73, 64
+  orig: 82, 82
+  offset: 2, 8
+  index: -1
+08
+  rotate: false
+  xy: 716, 122
+  size: 71, 54
+  orig: 82, 82
+  offset: 3, 10
+  index: -1
+09
+  rotate: false
+  xy: 232, 8
+  size: 64, 47
+  orig: 82, 82
+  offset: 7, 15
+  index: -1
+10
+  rotate: true
+  xy: 855, 137
+  size: 39, 29
+  orig: 82, 82
+  offset: 21, 24
+  index: -1
+11
+  rotate: false
+  xy: 886, 157
+  size: 35, 23
+  orig: 82, 82
+  offset: 22, 29
+  index: -1
+Dragon_explosion_001_1
+  rotate: true
+  xy: 789, 122
+  size: 54, 64
+  orig: 204, 198
+  offset: 64, 59
+  index: -1
+Dragon_explosion_005_1
+  rotate: false
+  xy: 958, 180
+  size: 64, 74
+  orig: 204, 198
+  offset: 61, 57
+  index: -1
+Dragon_explosion_007_1
+  rotate: false
+  xy: 2, 13
+  size: 75, 82
+  orig: 204, 198
+  offset: 55, 51
+  index: -1
+Dragon_explosion_009_1
+  rotate: false
+  xy: 716, 178
+  size: 79, 76
+  orig: 204, 198
+  offset: 52, 50
+  index: -1
+Dragon_explosion_011_1
+  rotate: true
+  xy: 797, 178
+  size: 76, 77
+  orig: 204, 198
+  offset: 53, 50
+  index: -1
+Dragon_explosion_015_1
+  rotate: true
+  xy: 310, 143
+  size: 111, 168
+  orig: 204, 198
+  offset: 39, 21
+  index: -1
+Dragon_explosion_019_1
+  rotate: false
+  xy: 2, 97
+  size: 145, 157
+  orig: 204, 198
+  offset: 21, 31
+  index: -1
+Dragon_explosion_021_1
+  rotate: false
+  xy: 149, 130
+  size: 159, 124
+  orig: 204, 198
+  offset: 14, 28
+  index: -1
+Dragon_explosion_023_1
+  rotate: true
+  xy: 480, 150
+  size: 104, 116
+  orig: 204, 198
+  offset: 43, 30
+  index: -1
+Dragon_explosion_025_1
+  rotate: true
+  xy: 598, 150
+  size: 104, 116
+  orig: 204, 198
+  offset: 43, 30
+  index: -1
+Dragon_explosion_027_1
+  rotate: false
+  xy: 152, 11
+  size: 78, 44
+  orig: 204, 198
+  offset: 49, 51
+  index: -1

@@ -1,0 +1,20 @@
+
+fire_bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_light/bg
+  rotate: false
+  xy: 2, 2
+  size: 768, 421
+  orig: 1152, 648
+  offset: 202, 107
+  index: -1
+bg_light/fire_bg
+  rotate: true
+  xy: 772, 135
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1

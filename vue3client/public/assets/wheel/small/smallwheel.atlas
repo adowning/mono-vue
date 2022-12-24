@@ -1,0 +1,55 @@
+
+smallwheel.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x_100
+  rotate: false
+  xy: 636, 106
+  size: 140, 85
+  orig: 500, 500
+  offset: 180, 242
+  index: -1
+x_200
+  rotate: false
+  xy: 778, 106
+  size: 140, 85
+  orig: 500, 500
+  offset: 180, 242
+  index: -1
+x_300
+  rotate: false
+  xy: 172, 2
+  size: 140, 85
+  orig: 500, 500
+  offset: 180, 242
+  index: -1
+xiao_100
+  rotate: false
+  xy: 327, 90
+  size: 153, 101
+  orig: 500, 500
+  offset: 174, 234
+  index: -1
+xiao_200
+  rotate: false
+  xy: 482, 90
+  size: 152, 101
+  orig: 500, 500
+  offset: 175, 234
+  index: -1
+xiao_300
+  rotate: false
+  xy: 172, 89
+  size: 153, 102
+  orig: 500, 500
+  offset: 174, 233
+  index: -1
+xiao_liang
+  rotate: false
+  xy: 2, 23
+  size: 168, 168
+  orig: 500, 500
+  offset: 166, 167
+  index: -1

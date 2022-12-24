@@ -1,0 +1,111 @@
+
+dragon_panel_lan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragonwheel
+  rotate: false
+  xy: 2, 350
+  size: 326, 155
+  orig: 643, 324
+  offset: 159, 76
+  index: -1
+dragonwheel_000
+  rotate: false
+  xy: 959, 429
+  size: 56, 76
+  orig: 322, 162
+  offset: 80, 39
+  index: -1
+dragonwheel_001
+  rotate: false
+  xy: 879, 341
+  size: 81, 75
+  orig: 322, 162
+  offset: 80, 40
+  index: -1
+dragonwheel_002
+  rotate: true
+  xy: 484, 254
+  size: 94, 75
+  orig: 322, 162
+  offset: 92, 40
+  index: -1
+dragonwheel_003
+  rotate: false
+  xy: 784, 341
+  size: 93, 75
+  orig: 322, 162
+  offset: 118, 40
+  index: -1
+dragonwheel_004
+  rotate: false
+  xy: 484, 176
+  size: 78, 76
+  orig: 322, 162
+  offset: 144, 40
+  index: -1
+dragonwheel_005
+  rotate: true
+  xy: 572, 306
+  size: 70, 74
+  orig: 322, 162
+  offset: 169, 42
+  index: -1
+dragonwheel_006
+  rotate: false
+  xy: 648, 336
+  size: 47, 40
+  orig: 322, 162
+  offset: 195, 76
+  index: -1
+dragonwheel_007
+  rotate: true
+  xy: 2, 2
+  size: 22, 29
+  orig: 322, 162
+  offset: 220, 86
+  index: -1
+panel_tx/panel_tx02_019
+  rotate: false
+  xy: 2, 187
+  size: 243, 161
+  orig: 322, 320
+  offset: 41, 80
+  index: -1
+panel_tx/panel_tx02_020
+  rotate: false
+  xy: 2, 26
+  size: 241, 159
+  orig: 322, 320
+  offset: 41, 82
+  index: -1
+panel_tx/panel_tx02_021
+  rotate: false
+  xy: 330, 350
+  size: 240, 155
+  orig: 322, 320
+  offset: 39, 86
+  index: -1
+panel_tx/panel_tx02_022
+  rotate: false
+  xy: 247, 198
+  size: 235, 150
+  orig: 322, 320
+  offset: 41, 92
+  index: -1
+panel_tx/panel_tx02_023
+  rotate: false
+  xy: 572, 378
+  size: 210, 127
+  orig: 322, 320
+  offset: 58, 114
+  index: -1
+panel_tx/panel_tx03_015
+  rotate: false
+  xy: 784, 418
+  size: 173, 87
+  orig: 322, 320
+  offset: 75, 113
+  index: -1

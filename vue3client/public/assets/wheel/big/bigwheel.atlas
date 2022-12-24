@@ -1,0 +1,41 @@
+
+bigwheel.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+da_30
+  rotate: false
+  xy: 328, 329
+  size: 140, 177
+  orig: 500, 500
+  offset: 180, 235
+  index: -1
+da_40
+  rotate: false
+  xy: 144, 3
+  size: 140, 177
+  orig: 500, 500
+  offset: 180, 235
+  index: -1
+da_50
+  rotate: false
+  xy: 2, 2
+  size: 140, 178
+  orig: 500, 500
+  offset: 180, 235
+  index: -1
+da_jian
+  rotate: false
+  xy: 328, 150
+  size: 140, 177
+  orig: 500, 500
+  offset: 180, 235
+  index: -1
+da_liang
+  rotate: false
+  xy: 2, 182
+  size: 324, 324
+  orig: 500, 500
+  offset: 89, 88
+  index: -1

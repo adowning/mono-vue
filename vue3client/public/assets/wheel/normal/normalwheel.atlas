@@ -1,0 +1,48 @@
+
+normalwheel.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhong_60
+  rotate: false
+  xy: 518, 117
+  size: 130, 131
+  orig: 500, 502
+  offset: 185, 243
+  index: -1
+zhong_70
+  rotate: false
+  xy: 650, 117
+  size: 130, 131
+  orig: 500, 502
+  offset: 185, 243
+  index: -1
+zhong_80
+  rotate: false
+  xy: 782, 117
+  size: 130, 131
+  orig: 500, 502
+  offset: 185, 243
+  index: -1
+zhong_90
+  rotate: false
+  xy: 386, 116
+  size: 130, 132
+  orig: 500, 502
+  offset: 185, 243
+  index: -1
+zhong_jian
+  rotate: false
+  xy: 250, 110
+  size: 134, 138
+  orig: 500, 500
+  offset: 181, 235
+  index: -1
+zhong_liang
+  rotate: false
+  xy: 2, 2
+  size: 246, 246
+  orig: 500, 502
+  offset: 127, 128
+  index: -1

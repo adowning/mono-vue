@@ -1,0 +1,243 @@
+
+monkey_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+redLightning/redLightning_004
+  rotate: true
+  xy: 466, 5
+  size: 209, 196
+  orig: 245, 203
+  offset: 32, 7
+  index: -1
+redLightning/redLightning_006
+  rotate: true
+  xy: 20, 214
+  size: 211, 195
+  orig: 245, 203
+  offset: 30, 8
+  index: -1
+redLightning/redLightning_008
+  rotate: false
+  xy: 493, 433
+  size: 213, 194
+  orig: 245, 203
+  offset: 28, 9
+  index: -1
+redLightning/redLightning_010
+  rotate: false
+  xy: 20, 434
+  size: 215, 193
+  orig: 245, 203
+  offset: 27, 10
+  index: -1
+redLightning/redLightning_012
+  rotate: false
+  xy: 499, 629
+  size: 217, 192
+  orig: 245, 203
+  offset: 26, 11
+  index: -1
+redLightning/redLightning_014
+  rotate: false
+  xy: 500, 823
+  size: 219, 192
+  orig: 245, 203
+  offset: 26, 11
+  index: -1
+redLightning/redLightning_016
+  rotate: false
+  xy: 260, 825
+  size: 220, 190
+  orig: 245, 203
+  offset: 25, 13
+  index: -1
+redLightning/redLightning_017
+  rotate: false
+  xy: 20, 824
+  size: 220, 191
+  orig: 245, 203
+  offset: 25, 12
+  index: -1
+redLightning/redLightning_018
+  rotate: false
+  xy: 260, 631
+  size: 219, 192
+  orig: 245, 203
+  offset: 26, 11
+  index: -1
+redLightning/redLightning_019
+  rotate: false
+  xy: 20, 629
+  size: 218, 193
+  orig: 245, 203
+  offset: 26, 10
+  index: -1
+redLightning/redLightning_020
+  rotate: false
+  xy: 739, 822
+  size: 217, 193
+  orig: 245, 203
+  offset: 27, 10
+  index: -1
+redLightning/redLightning_022
+  rotate: false
+  xy: 258, 434
+  size: 215, 195
+  orig: 245, 203
+  offset: 28, 8
+  index: -1
+redLightning/redLightning_024
+  rotate: false
+  xy: 736, 625
+  size: 213, 195
+  orig: 245, 203
+  offset: 28, 8
+  index: -1
+redLightning/redLightning_026
+  rotate: false
+  xy: 726, 427
+  size: 212, 196
+  orig: 245, 203
+  offset: 29, 7
+  index: -1
+redLightning/redLightning_028
+  rotate: true
+  xy: 458, 216
+  size: 209, 197
+  orig: 245, 203
+  offset: 31, 6
+  index: -1
+redLightning/redLightning_038
+  rotate: true
+  xy: 682, 9
+  size: 207, 202
+  orig: 245, 203
+  offset: 36, 1
+  index: -1
+redLightning/redLightning_040
+  rotate: true
+  xy: 675, 218
+  size: 207, 203
+  orig: 245, 203
+  offset: 36, 0
+  index: -1
+redLightning/redLightning_042
+  rotate: true
+  xy: 235, 216
+  size: 209, 203
+  orig: 245, 203
+  offset: 35, 0
+  index: -1
+redLightning/redLightning_044
+  rotate: true
+  xy: 20, 2
+  size: 210, 203
+  orig: 245, 203
+  offset: 34, 0
+  index: -1
+redLightning/redLightning_046
+  rotate: true
+  xy: 243, 5
+  size: 209, 203
+  orig: 245, 203
+  offset: 34, 0
+  index: -1
+
+monkey_light2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+redLightning/redLightning_000
+  rotate: true
+  xy: 470, 202
+  size: 205, 198
+  orig: 245, 203
+  offset: 35, 5
+  index: -1
+redLightning/redLightning_002
+  rotate: true
+  xy: 20, 190
+  size: 207, 198
+  orig: 245, 203
+  offset: 34, 5
+  index: -1
+redLightning/redLightning_030
+  rotate: false
+  xy: 692, 411
+  size: 206, 197
+  orig: 245, 203
+  offset: 34, 6
+  index: -1
+redLightning/redLightning_032
+  rotate: false
+  xy: 688, 209
+  size: 204, 198
+  orig: 245, 203
+  offset: 37, 5
+  index: -1
+redLightning/redLightning_034
+  rotate: false
+  xy: 468, 409
+  size: 204, 199
+  orig: 245, 203
+  offset: 37, 4
+  index: -1
+redLightning/redLightning_036
+  rotate: false
+  xy: 20, 399
+  size: 205, 201
+  orig: 245, 203
+  offset: 37, 2
+  index: -1
+redLightning/redLightning_048
+  rotate: true
+  xy: 20, 602
+  size: 207, 202
+  orig: 245, 203
+  offset: 34, 1
+  index: -1
+redLightning/redLightning_050
+  rotate: false
+  xy: 242, 609
+  size: 206, 200
+  orig: 245, 203
+  offset: 35, 3
+  index: -1
+redLightning/redLightning_052
+  rotate: true
+  xy: 245, 402
+  size: 205, 200
+  orig: 245, 203
+  offset: 36, 3
+  index: -1
+redLightning/redLightning_054
+  rotate: false
+  xy: 245, 200
+  size: 205, 200
+  orig: 245, 203
+  offset: 36, 3
+  index: -1
+redLightning/redLightning_056
+  rotate: false
+  xy: 468, 610
+  size: 206, 199
+  orig: 245, 203
+  offset: 36, 4
+  index: -1
+redLightning/redLightning_058
+  rotate: false
+  xy: 470, 2
+  size: 205, 198
+  orig: 245, 203
+  offset: 36, 5
+  index: -1
+redLightning/redLightning_059
+  rotate: false
+  xy: 694, 612
+  size: 204, 197
+  orig: 245, 203
+  offset: 37, 6
+  index: -1

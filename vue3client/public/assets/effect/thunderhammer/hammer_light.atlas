@@ -1,0 +1,146 @@
+
+hammer_light.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ThunderHammer_lightning/Hammer_lightning_0
+  rotate: false
+  xy: 2, 869
+  size: 189, 153
+  orig: 225, 225
+  offset: 19, 34
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_1
+  rotate: false
+  xy: 2, 713
+  size: 186, 154
+  orig: 225, 225
+  offset: 20, 34
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_10
+  rotate: false
+  xy: 466, 402
+  size: 165, 153
+  orig: 225, 225
+  offset: 36, 35
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_11
+  rotate: false
+  xy: 382, 714
+  size: 169, 154
+  orig: 225, 225
+  offset: 32, 37
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_12
+  rotate: true
+  xy: 308, 538
+  size: 174, 155
+  orig: 225, 225
+  offset: 29, 37
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_13
+  rotate: true
+  xy: 155, 359
+  size: 175, 154
+  orig: 225, 225
+  offset: 28, 37
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_14
+  rotate: false
+  xy: 2, 2
+  size: 176, 152
+  orig: 225, 225
+  offset: 27, 38
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_15
+  rotate: false
+  xy: 567, 870
+  size: 181, 152
+  orig: 225, 225
+  offset: 22, 36
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_16
+  rotate: true
+  xy: 2, 337
+  size: 184, 151
+  orig: 225, 225
+  offset: 22, 37
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_17
+  rotate: false
+  xy: 193, 869
+  size: 187, 153
+  orig: 225, 225
+  offset: 19, 34
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_18
+  rotate: false
+  xy: 190, 714
+  size: 185, 153
+  orig: 225, 225
+  offset: 19, 35
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_19
+  rotate: true
+  xy: 2, 523
+  size: 188, 151
+  orig: 225, 225
+  offset: 20, 36
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_2
+  rotate: false
+  xy: 382, 870
+  size: 183, 152
+  orig: 225, 225
+  offset: 23, 37
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_3
+  rotate: true
+  xy: 2, 156
+  size: 179, 149
+  orig: 225, 225
+  offset: 25, 39
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_4
+  rotate: false
+  xy: 750, 872
+  size: 178, 150
+  orig: 225, 225
+  offset: 26, 37
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_5
+  rotate: true
+  xy: 155, 536
+  size: 175, 151
+  orig: 225, 225
+  offset: 28, 37
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_6
+  rotate: true
+  xy: 311, 366
+  size: 170, 153
+  orig: 225, 225
+  offset: 33, 34
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_7
+  rotate: false
+  xy: 553, 714
+  size: 167, 154
+  orig: 225, 225
+  offset: 37, 34
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_8
+  rotate: false
+  xy: 465, 557
+  size: 166, 155
+  orig: 225, 225
+  offset: 37, 32
+  index: -1
+ThunderHammer_lightning/Hammer_lightning_9
+  rotate: true
+  xy: 633, 548
+  size: 164, 153
+  orig: 225, 225
+  offset: 38, 34
+  index: -1

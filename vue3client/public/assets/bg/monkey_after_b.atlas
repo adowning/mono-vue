@@ -1,0 +1,152 @@
+
+monkey_after_b.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_mokey/light_000
+  rotate: false
+  xy: 591, 89
+  size: 147, 148
+  orig: 287, 162
+  offset: 35, 0
+  index: -1
+bg_mokey/light_003
+  rotate: false
+  xy: 346, 84
+  size: 145, 148
+  orig: 287, 162
+  offset: 37, 0
+  index: -1
+bg_mokey/light_008
+  rotate: false
+  xy: 591, 546
+  size: 146, 149
+  orig: 287, 162
+  offset: 38, 0
+  index: -1
+bg_mokey/light_009
+  rotate: false
+  xy: 591, 317
+  size: 146, 149
+  orig: 287, 162
+  offset: 39, 0
+  index: -1
+bg_mokey/light_012
+  rotate: false
+  xy: 346, 312
+  size: 145, 150
+  orig: 287, 162
+  offset: 41, 0
+  index: -1
+bg_mokey/light_013
+  rotate: false
+  xy: 346, 542
+  size: 145, 151
+  orig: 287, 162
+  offset: 42, 0
+  index: -1
+bg_mokey/light_014
+  rotate: false
+  xy: 591, 775
+  size: 145, 151
+  orig: 287, 162
+  offset: 42, 0
+  index: -1
+bg_mokey/light_015
+  rotate: false
+  xy: 100, 311
+  size: 146, 151
+  orig: 287, 162
+  offset: 42, 0
+  index: -1
+bg_mokey/light_016
+  rotate: false
+  xy: 100, 80
+  size: 145, 151
+  orig: 287, 162
+  offset: 43, 0
+  index: -1
+bg_mokey/light_017
+  rotate: false
+  xy: 100, 774
+  size: 146, 152
+  orig: 287, 162
+  offset: 43, 0
+  index: -1
+bg_mokey/light_018
+  rotate: false
+  xy: 100, 542
+  size: 146, 152
+  orig: 287, 162
+  offset: 43, 0
+  index: -1
+bg_mokey/light_019
+  rotate: false
+  xy: 346, 773
+  size: 145, 153
+  orig: 287, 162
+  offset: 44, 0
+  index: -1
+
+monkey_after_b2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_mokey/light_001
+  rotate: false
+  xy: 100, 536
+  size: 146, 148
+  orig: 287, 162
+  offset: 36, 0
+  index: -1
+bg_mokey/light_002
+  rotate: false
+  xy: 346, 765
+  size: 146, 148
+  orig: 287, 162
+  offset: 36, 0
+  index: -1
+bg_mokey/light_004
+  rotate: false
+  xy: 100, 80
+  size: 145, 148
+  orig: 287, 162
+  offset: 37, 0
+  index: -1
+bg_mokey/light_005
+  rotate: false
+  xy: 100, 308
+  size: 146, 148
+  orig: 287, 162
+  offset: 37, 0
+  index: -1
+bg_mokey/light_006
+  rotate: false
+  xy: 346, 309
+  size: 145, 148
+  orig: 287, 162
+  offset: 38, 0
+  index: -1
+bg_mokey/light_007
+  rotate: false
+  xy: 346, 537
+  size: 146, 148
+  orig: 287, 162
+  offset: 38, 0
+  index: -1
+bg_mokey/light_010
+  rotate: false
+  xy: 592, 764
+  size: 145, 149
+  orig: 287, 162
+  offset: 40, 0
+  index: -1
+bg_mokey/light_011
+  rotate: false
+  xy: 100, 764
+  size: 146, 149
+  orig: 287, 162
+  offset: 40, 0
+  index: -1

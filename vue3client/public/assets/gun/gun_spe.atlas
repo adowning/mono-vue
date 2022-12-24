@@ -1,0 +1,517 @@
+
+gun_spe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang1_000
+  rotate: false
+  xy: 384, 619
+  size: 82, 33
+  orig: 168, 119
+  offset: 35, 38
+  index: -1
+faguang2_000
+  rotate: true
+  xy: 519, 712
+  size: 37, 59
+  orig: 41, 60
+  offset: 4, 1
+  index: -1
+faguang2_001
+  rotate: false
+  xy: 213, 234
+  size: 37, 59
+  orig: 41, 60
+  offset: 4, 1
+  index: -1
+faguang2_002
+  rotate: false
+  xy: 338, 250
+  size: 37, 59
+  orig: 41, 60
+  offset: 4, 1
+  index: -1
+faguang2_003
+  rotate: true
+  xy: 295, 211
+  size: 37, 59
+  orig: 41, 60
+  offset: 4, 1
+  index: -1
+faguang2_004
+  rotate: true
+  xy: 939, 711
+  size: 37, 59
+  orig: 41, 60
+  offset: 4, 1
+  index: -1
+faguang2_005
+  rotate: false
+  xy: 252, 239
+  size: 41, 59
+  orig: 41, 60
+  offset: 0, 1
+  index: -1
+faguang2_006
+  rotate: false
+  xy: 295, 250
+  size: 41, 59
+  orig: 41, 60
+  offset: 0, 1
+  index: -1
+faguang2_007
+  rotate: true
+  xy: 390, 478
+  size: 41, 59
+  orig: 41, 60
+  offset: 0, 1
+  index: -1
+faguang2_008
+  rotate: false
+  xy: 451, 460
+  size: 41, 59
+  orig: 41, 60
+  offset: 0, 1
+  index: -1
+faguang3_000
+  rotate: true
+  xy: 130, 487
+  size: 115, 95
+  orig: 195, 156
+  offset: 41, 29
+  index: -1
+faguang4_000
+  rotate: false
+  xy: 146, 276
+  size: 65, 17
+  orig: 81, 38
+  offset: 7, 7
+  index: -1
+faguang5_000
+  rotate: false
+  xy: 296, 510
+  size: 45, 96
+  orig: 61, 102
+  offset: 7, 0
+  index: -1
+faguang5_001
+  rotate: false
+  xy: 343, 514
+  size: 45, 96
+  orig: 61, 102
+  offset: 7, 0
+  index: -1
+faguang5_002
+  rotate: true
+  xy: 384, 654
+  size: 45, 96
+  orig: 61, 102
+  offset: 7, 0
+  index: -1
+faguang5_003
+  rotate: false
+  xy: 390, 521
+  size: 45, 96
+  orig: 61, 102
+  offset: 7, 0
+  index: -1
+faguang5_004
+  rotate: false
+  xy: 437, 521
+  size: 45, 96
+  orig: 61, 102
+  offset: 7, 0
+  index: -1
+faguang5_005
+  rotate: false
+  xy: 472, 717
+  size: 45, 96
+  orig: 61, 102
+  offset: 7, 0
+  index: -1
+fire_light/fire_light_000
+  rotate: false
+  xy: 130, 423
+  size: 88, 62
+  orig: 186, 149
+  offset: 35, 0
+  index: -1
+fire_light/fire_light_001
+  rotate: true
+  xy: 939, 750
+  size: 131, 83
+  orig: 186, 149
+  offset: 14, 0
+  index: -1
+fire_light/fire_light_002
+  rotate: true
+  xy: 127, 663
+  size: 138, 86
+  orig: 186, 149
+  offset: 12, 0
+  index: -1
+fire_light/fire_light_003
+  rotate: false
+  xy: 794, 789
+  size: 143, 92
+  orig: 186, 149
+  offset: 12, 0
+  index: -1
+fire_light/fire_light_004
+  rotate: false
+  xy: 2, 2
+  size: 151, 103
+  orig: 186, 149
+  offset: 10, 0
+  index: -1
+fire_light/fire_light_005
+  rotate: true
+  xy: 2, 107
+  size: 160, 112
+  orig: 186, 149
+  offset: 7, 0
+  index: -1
+fire_light/fire_light_006
+  rotate: true
+  xy: 2, 423
+  size: 177, 126
+  orig: 186, 149
+  offset: 0, 0
+  index: -1
+fire_light/fire_light_007
+  rotate: false
+  xy: 640, 883
+  size: 179, 134
+  orig: 186, 149
+  offset: 0, 0
+  index: -1
+fire_light/fire_light_008
+  rotate: false
+  xy: 821, 883
+  size: 179, 134
+  orig: 186, 149
+  offset: 0, 0
+  index: -1
+fire_tail/fire_tail_000
+  rotate: true
+  xy: 873, 742
+  size: 45, 64
+  orig: 177, 248
+  offset: 131, 174
+  index: -1
+fire_tail/fire_tail_001
+  rotate: true
+  xy: 127, 604
+  size: 57, 113
+  orig: 177, 248
+  offset: 117, 115
+  index: -1
+fire_tail/fire_tail_002
+  rotate: true
+  xy: 640, 800
+  size: 81, 152
+  orig: 177, 248
+  offset: 93, 79
+  index: -1
+fire_tail/fire_tail_003
+  rotate: false
+  xy: 2, 602
+  size: 123, 199
+  orig: 177, 248
+  offset: 54, 32
+  index: -1
+fire_tail/fire_tail_004
+  rotate: false
+  xy: 2, 803
+  size: 156, 214
+  orig: 177, 248
+  offset: 14, 0
+  index: -1
+fire_tail/fire_tail_005
+  rotate: false
+  xy: 160, 808
+  size: 157, 209
+  orig: 177, 248
+  offset: 13, 0
+  index: -1
+fire_tail/fire_tail_006
+  rotate: false
+  xy: 319, 815
+  size: 159, 202
+  orig: 177, 248
+  offset: 11, 0
+  index: -1
+fire_tail/fire_tail_007
+  rotate: false
+  xy: 480, 820
+  size: 158, 197
+  orig: 177, 248
+  offset: 10, 0
+  index: -1
+fire_tail/fire_tail_008
+  rotate: false
+  xy: 2, 269
+  size: 142, 152
+  orig: 177, 248
+  offset: 10, 2
+  index: -1
+fire_tail/fire_tail_009
+  rotate: false
+  xy: 242, 608
+  size: 80, 67
+  orig: 177, 248
+  offset: 10, 9
+  index: -1
+fire_tail/fire_tail_010
+  rotate: false
+  xy: 579, 767
+  size: 59, 51
+  orig: 177, 248
+  offset: 10, 12
+  index: -1
+fire_tail/fire_tail_011
+  rotate: false
+  xy: 579, 767
+  size: 59, 51
+  orig: 177, 248
+  offset: 10, 12
+  index: -1
+fire_tail/fire_tail_012
+  rotate: false
+  xy: 579, 767
+  size: 59, 51
+  orig: 177, 248
+  offset: 10, 12
+  index: -1
+firestorm cannon2_000
+  rotate: false
+  xy: 116, 113
+  size: 28, 26
+  orig: 104, 91
+  offset: 73, 13
+  index: -1
+firestorm cannon2_001
+  rotate: false
+  xy: 724, 743
+  size: 65, 55
+  orig: 104, 91
+  offset: 26, 9
+  index: -1
+firestorm cannon2_002
+  rotate: false
+  xy: 195, 143
+  size: 60, 63
+  orig: 104, 91
+  offset: 10, 14
+  index: -1
+firestorm cannon2_003
+  rotate: false
+  xy: 324, 612
+  size: 58, 67
+  orig: 104, 91
+  offset: 2, 18
+  index: -1
+firestorm cannon2_004
+  rotate: false
+  xy: 580, 709
+  size: 58, 56
+  orig: 104, 91
+  offset: 0, 24
+  index: -1
+firestorm cannon2_005
+  rotate: true
+  xy: 781, 686
+  size: 55, 37
+  orig: 104, 91
+  offset: 1, 38
+  index: -1
+firestorm cannon2_006
+  rotate: false
+  xy: 296, 482
+  size: 44, 26
+  orig: 104, 91
+  offset: 6, 46
+  index: -1
+firestorm cannon_000
+  rotate: true
+  xy: 468, 624
+  size: 28, 26
+  orig: 104, 91
+  offset: 73, 13
+  index: -1
+firestorm cannon_001
+  rotate: false
+  xy: 714, 686
+  size: 65, 55
+  orig: 104, 91
+  offset: 26, 9
+  index: -1
+firestorm cannon_002
+  rotate: false
+  xy: 231, 78
+  size: 60, 63
+  orig: 104, 91
+  offset: 10, 14
+  index: -1
+firestorm cannon_003
+  rotate: false
+  xy: 519, 751
+  size: 58, 67
+  orig: 104, 91
+  offset: 2, 18
+  index: -1
+firestorm cannon_004
+  rotate: false
+  xy: 231, 20
+  size: 58, 56
+  orig: 104, 91
+  offset: 0, 24
+  index: -1
+firestorm cannon_005
+  rotate: true
+  xy: 820, 689
+  size: 55, 37
+  orig: 104, 91
+  offset: 1, 38
+  index: -1
+firestorm cannon_006
+  rotate: true
+  xy: 356, 204
+  size: 44, 26
+  orig: 104, 91
+  offset: 6, 46
+  index: -1
+firestormcannon2_000
+  rotate: false
+  xy: 1002, 922
+  size: 16, 16
+  orig: 135, 81
+  offset: 56, 25
+  index: -1
+firestormcannon2_001
+  rotate: false
+  xy: 220, 423
+  size: 110, 56
+  orig: 135, 81
+  offset: 9, 14
+  index: -1
+firestormcannon2_002
+  rotate: true
+  xy: 227, 481
+  size: 121, 67
+  orig: 135, 81
+  offset: 4, 8
+  index: -1
+firestormcannon2_003
+  rotate: true
+  xy: 302, 681
+  size: 125, 74
+  orig: 135, 81
+  offset: 7, 5
+  index: -1
+firestormcannon2_004
+  rotate: true
+  xy: 116, 141
+  size: 126, 77
+  orig: 135, 81
+  offset: 9, 1
+  index: -1
+firestormcannon3_000
+  rotate: false
+  xy: 213, 216
+  size: 16, 16
+  orig: 135, 81
+  offset: 56, 25
+  index: -1
+firestormcannon3_001
+  rotate: true
+  xy: 294, 311
+  size: 110, 56
+  orig: 135, 81
+  offset: 9, 14
+  index: -1
+firestormcannon3_002
+  rotate: true
+  xy: 225, 300
+  size: 121, 67
+  orig: 135, 81
+  offset: 4, 8
+  index: -1
+firestormcannon3_003
+  rotate: true
+  xy: 155, 14
+  size: 125, 74
+  orig: 135, 81
+  offset: 7, 5
+  index: -1
+firestormcannon3_004
+  rotate: true
+  xy: 146, 295
+  size: 126, 77
+  orig: 135, 81
+  offset: 9, 1
+  index: -1
+spe_body
+  rotate: true
+  xy: 215, 677
+  size: 129, 85
+  orig: 131, 87
+  offset: 1, 1
+  index: -1
+spe_s1
+  rotate: true
+  xy: 378, 701
+  size: 112, 92
+  orig: 114, 94
+  offset: 1, 1
+  index: -1
+spe_s2
+  rotate: false
+  xy: 640, 765
+  size: 82, 33
+  orig: 84, 35
+  offset: 1, 1
+  index: -1
+spe_s3
+  rotate: true
+  xy: 195, 208
+  size: 66, 16
+  orig: 68, 18
+  offset: 1, 1
+  index: -1
+spe_s4
+  rotate: false
+  xy: 1000, 708
+  size: 22, 40
+  orig: 24, 42
+  offset: 1, 1
+  index: -1
+spe_s5
+  rotate: false
+  xy: 1002, 975
+  size: 20, 42
+  orig: 22, 44
+  offset: 1, 1
+  index: -1
+spe_s6
+  rotate: false
+  xy: 640, 713
+  size: 72, 50
+  orig: 74, 52
+  offset: 1, 1
+  index: -1
+spe_s7
+  rotate: false
+  xy: 1002, 940
+  size: 20, 33
+  orig: 22, 35
+  offset: 1, 1
+  index: -1
+spe_s8
+  rotate: false
+  xy: 791, 746
+  size: 80, 41
+  orig: 82, 43
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,1082 @@
+
+hammer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hammer_002
+  rotate: true
+  xy: 743, 207
+  size: 179, 124
+  orig: 215, 215
+  offset: 18, 45
+  index: -1
+hammer_003
+  rotate: true
+  xy: 454, 4
+  size: 176, 124
+  orig: 215, 215
+  offset: 21, 45
+  index: -1
+hammer_013
+  rotate: false
+  xy: 845, 580
+  size: 159, 133
+  orig: 215, 215
+  offset: 32, 45
+  index: -1
+hammer_017
+  rotate: true
+  xy: 186, 2
+  size: 178, 127
+  orig: 215, 215
+  offset: 18, 45
+  index: -1
+hammer_di
+  rotate: true
+  xy: 889, 75
+  size: 132, 115
+  orig: 215, 215
+  offset: 55, 45
+  index: -1
+hammer_tx01_000
+  rotate: false
+  xy: 246, 730
+  size: 228, 151
+  orig: 432, 243
+  offset: 204, 92
+  index: -1
+hammer_tx01_001
+  rotate: false
+  xy: 781, 870
+  size: 220, 152
+  orig: 432, 243
+  offset: 202, 91
+  index: -1
+hammer_tx01_002
+  rotate: false
+  xy: 740, 715
+  size: 214, 153
+  orig: 432, 243
+  offset: 201, 90
+  index: -1
+hammer_tx01_003
+  rotate: false
+  xy: 415, 562
+  size: 201, 153
+  orig: 432, 243
+  offset: 201, 90
+  index: -1
+hammer_tx01_008
+  rotate: false
+  xy: 181, 765
+  size: 45, 48
+  orig: 432, 243
+  offset: 202, 92
+  index: -1
+hammer_tx02_000
+  rotate: true
+  xy: 494, 872
+  size: 9, 7
+  orig: 134, 76
+  offset: 106, 57
+  index: -1
+hammer_tx02_001
+  rotate: false
+  xy: 974, 843
+  size: 21, 25
+  orig: 134, 76
+  offset: 100, 40
+  index: -1
+hammer_tx03_000
+  rotate: false
+  xy: 401, 379
+  size: 22, 15
+  orig: 172, 95
+  offset: 39, 34
+  index: -1
+hammer_tx03_001
+  rotate: true
+  xy: 821, 394
+  size: 54, 43
+  orig: 172, 95
+  offset: 30, 22
+  index: -1
+hammer_tx04_001
+  rotate: false
+  xy: 821, 450
+  size: 46, 109
+  orig: 83, 112
+  offset: 18, 3
+  index: -1
+hammer_tx05_006
+  rotate: false
+  xy: 181, 730
+  size: 36, 33
+  orig: 39, 35
+  offset: 3, 0
+  index: -1
+hammer_tx06_000
+  rotate: false
+  xy: 845, 561
+  size: 18, 17
+  orig: 216, 122
+  offset: 98, 50
+  index: -1
+hammer_y1
+  rotate: false
+  xy: 20, 2
+  size: 70, 51
+  orig: 107, 107
+  offset: 28, 4
+  index: -1
+newhammer/hit_002
+  rotate: false
+  xy: 333, 2
+  size: 101, 178
+  orig: 432, 243
+  offset: 195, 30
+  index: -1
+newhammer/hit_005
+  rotate: false
+  xy: 746, 8
+  size: 123, 197
+  orig: 432, 243
+  offset: 224, 29
+  index: -1
+newhammer/hit_008
+  rotate: false
+  xy: 392, 182
+  size: 130, 187
+  orig: 432, 243
+  offset: 224, 35
+  index: -1
+newhammer/hit_013
+  rotate: false
+  xy: 887, 209
+  size: 117, 166
+  orig: 432, 243
+  offset: 226, 44
+  index: -1
+newhammer/hit_020
+  rotate: true
+  xy: 889, 2
+  size: 71, 79
+  orig: 432, 243
+  offset: 195, 58
+  index: -1
+newhammer/new_tx01_000
+  rotate: false
+  xy: 110, 12
+  size: 40, 41
+  orig: 432, 243
+  offset: 191, 113
+  index: -1
+newhammer/new_tx01_005
+  rotate: false
+  xy: 542, 207
+  size: 181, 179
+  orig: 432, 243
+  offset: 117, 44
+  index: -1
+newhammer/new_tx01_006
+  rotate: false
+  xy: 186, 182
+  size: 186, 187
+  orig: 432, 243
+  offset: 109, 40
+  index: -1
+newhammer/new_tx01_007
+  rotate: false
+  xy: 183, 371
+  size: 198, 197
+  orig: 432, 243
+  offset: 99, 35
+  index: -1
+newhammer/new_tx01_008
+  rotate: false
+  xy: 20, 815
+  size: 206, 207
+  orig: 432, 243
+  offset: 94, 30
+  index: -1
+newhammer/up_007
+  rotate: true
+  xy: 887, 377
+  size: 201, 117
+  orig: 497, 497
+  offset: 138, 208
+  index: -1
+newhammer/up_008
+  rotate: true
+  xy: 598, 6
+  size: 199, 128
+  orig: 497, 497
+  offset: 139, 198
+  index: -1
+newhammer/up_010
+  rotate: false
+  xy: 636, 561
+  size: 189, 152
+  orig: 497, 497
+  offset: 148, 176
+  index: -1
+newhammer/up_012
+  rotate: true
+  xy: 619, 388
+  size: 171, 182
+  orig: 497, 497
+  offset: 163, 154
+  index: -1
+newhammer/up_013
+  rotate: true
+  xy: 401, 396
+  size: 164, 198
+  orig: 497, 497
+  offset: 168, 144
+  index: -1
+newhammer/up_014
+  rotate: true
+  xy: 181, 570
+  size: 158, 214
+  orig: 497, 497
+  offset: 173, 133
+  index: -1
+newhammer/up_015
+  rotate: true
+  xy: 494, 717
+  size: 153, 226
+  orig: 497, 497
+  offset: 176, 124
+  index: -1
+newhammer/up_016
+  rotate: true
+  xy: 523, 872
+  size: 150, 238
+  orig: 497, 497
+  offset: 178, 115
+  index: -1
+newhammer/up_017
+  rotate: false
+  xy: 20, 55
+  size: 146, 246
+  orig: 497, 497
+  offset: 181, 108
+  index: -1
+newhammer/up_018
+  rotate: false
+  xy: 20, 303
+  size: 143, 252
+  orig: 497, 497
+  offset: 183, 103
+  index: -1
+newhammer/up_019
+  rotate: false
+  xy: 20, 557
+  size: 141, 256
+  orig: 497, 497
+  offset: 185, 100
+  index: -1
+newhammer/up_020
+  rotate: true
+  xy: 246, 883
+  size: 139, 257
+  orig: 497, 497
+  offset: 186, 99
+  index: -1
+
+hammer2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hammer_000
+  rotate: false
+  xy: 228, 422
+  size: 182, 124
+  orig: 215, 215
+  offset: 15, 45
+  index: -1
+hammer_001
+  rotate: false
+  xy: 430, 321
+  size: 181, 124
+  orig: 215, 215
+  offset: 16, 45
+  index: -1
+hammer_006
+  rotate: false
+  xy: 716, 139
+  size: 161, 124
+  orig: 215, 215
+  offset: 35, 45
+  index: -1
+hammer_006_bai
+  rotate: false
+  xy: 963, 858
+  size: 41, 31
+  orig: 53, 53
+  offset: 8, 11
+  index: -1
+hammer_007_bai
+  rotate: false
+  xy: 964, 991
+  size: 39, 31
+  orig: 53, 53
+  offset: 9, 11
+  index: -1
+hammer_008_bai
+  rotate: false
+  xy: 964, 924
+  size: 38, 31
+  orig: 53, 53
+  offset: 10, 11
+  index: -1
+hammer_009_bai
+  rotate: false
+  xy: 964, 891
+  size: 38, 31
+  orig: 53, 53
+  offset: 10, 11
+  index: -1
+hammer_010_bai
+  rotate: false
+  xy: 963, 825
+  size: 38, 31
+  orig: 53, 53
+  offset: 10, 11
+  index: -1
+hammer_011
+  rotate: false
+  xy: 727, 265
+  size: 150, 129
+  orig: 215, 215
+  offset: 40, 45
+  index: -1
+hammer_011_bai
+  rotate: false
+  xy: 964, 957
+  size: 38, 32
+  orig: 53, 53
+  offset: 10, 11
+  index: -1
+hammer_012
+  rotate: false
+  xy: 796, 5
+  size: 155, 132
+  orig: 215, 215
+  offset: 36, 45
+  index: -1
+hammer_014
+  rotate: false
+  xy: 611, 5
+  size: 165, 132
+  orig: 215, 215
+  offset: 28, 45
+  index: -1
+hammer_018
+  rotate: false
+  xy: 20, 147
+  size: 180, 125
+  orig: 215, 215
+  offset: 16, 45
+  index: -1
+hammer_019
+  rotate: false
+  xy: 20, 405
+  size: 182, 124
+  orig: 215, 215
+  offset: 15, 45
+  index: -1
+hammer_chui
+  rotate: false
+  xy: 650, 396
+  size: 182, 101
+  orig: 215, 215
+  offset: 15, 68
+  index: -1
+hammer_chui1
+  rotate: false
+  xy: 897, 243
+  size: 96, 57
+  orig: 107, 107
+  offset: 4, 30
+  index: -1
+hammer_tx01_006
+  rotate: false
+  xy: 187, 5
+  size: 145, 140
+  orig: 432, 243
+  offset: 201, 90
+  index: -1
+hammer_tx02_004
+  rotate: true
+  xy: 510, 150
+  size: 102, 63
+  orig: 134, 76
+  offset: 14, 9
+  index: -1
+hammer_tx02_005
+  rotate: false
+  xy: 593, 139
+  size: 90, 61
+  orig: 134, 76
+  offset: 13, 8
+  index: -1
+hammer_tx02_006
+  rotate: false
+  xy: 611, 202
+  size: 84, 50
+  orig: 134, 76
+  offset: 20, 17
+  index: -1
+hammer_tx03_004
+  rotate: true
+  xy: 352, 3
+  size: 145, 66
+  orig: 172, 95
+  offset: 10, 15
+  index: -1
+hammer_tx03_006
+  rotate: false
+  xy: 422, 254
+  size: 145, 65
+  orig: 172, 95
+  offset: 10, 15
+  index: -1
+hammer_tx03_008
+  rotate: true
+  xy: 438, 11
+  size: 137, 56
+  orig: 172, 95
+  offset: 10, 24
+  index: -1
+hammer_tx04_000
+  rotate: false
+  xy: 963, 714
+  size: 37, 109
+  orig: 83, 112
+  offset: 22, 3
+  index: -1
+hammer_tx04_009
+  rotate: true
+  xy: 587, 254
+  size: 65, 109
+  orig: 83, 112
+  offset: 9, 3
+  index: -1
+hammer_tx04_010
+  rotate: true
+  xy: 911, 719
+  size: 66, 32
+  orig: 83, 112
+  offset: 7, 11
+  index: -1
+hammer_tx05_000
+  rotate: false
+  xy: 971, 104
+  size: 33, 33
+  orig: 39, 35
+  offset: 1, 0
+  index: -1
+hammer_tx05_001
+  rotate: false
+  xy: 897, 207
+  size: 32, 34
+  orig: 39, 35
+  offset: 3, 0
+  index: -1
+hammer_tx05_002
+  rotate: false
+  xy: 971, 69
+  size: 33, 33
+  orig: 39, 35
+  offset: 2, 0
+  index: -1
+hammer_tx05_005
+  rotate: true
+  xy: 971, 35
+  size: 32, 33
+  orig: 39, 35
+  offset: 3, 0
+  index: -1
+hammer_tx05_007
+  rotate: true
+  xy: 971, 207
+  size: 34, 33
+  orig: 39, 35
+  offset: 2, 0
+  index: -1
+hammer_tx05_009
+  rotate: false
+  xy: 971, 2
+  size: 33, 31
+  orig: 39, 35
+  offset: 2, 1
+  index: -1
+hammer_tx06_003
+  rotate: false
+  xy: 334, 150
+  size: 156, 102
+  orig: 216, 122
+  offset: 26, 2
+  index: -1
+hammer_tx06_004
+  rotate: false
+  xy: 728, 911
+  size: 216, 111
+  orig: 216, 122
+  offset: 0, 0
+  index: -1
+hammer_tx06_005
+  rotate: false
+  xy: 728, 787
+  size: 215, 122
+  orig: 216, 122
+  offset: 1, 0
+  index: -1
+hammer_tx06_006
+  rotate: false
+  xy: 20, 900
+  size: 216, 122
+  orig: 216, 122
+  offset: 0, 0
+  index: -1
+hammer_tx06_007
+  rotate: false
+  xy: 256, 900
+  size: 216, 122
+  orig: 216, 122
+  offset: 0, 0
+  index: -1
+hammer_tx06_008
+  rotate: false
+  xy: 492, 900
+  size: 216, 122
+  orig: 216, 122
+  offset: 0, 0
+  index: -1
+hammer_tx06_009
+  rotate: false
+  xy: 20, 782
+  size: 215, 116
+  orig: 216, 122
+  offset: 0, 0
+  index: -1
+newhammer/TotalWin_000_000
+  rotate: false
+  xy: 897, 302
+  size: 97, 60
+  orig: 125, 60
+  offset: 14, 0
+  index: -1
+newhammer/hit_003
+  rotate: true
+  xy: 20, 531
+  size: 108, 188
+  orig: 432, 243
+  offset: 209, 29
+  index: -1
+newhammer/hit_004
+  rotate: true
+  xy: 255, 676
+  size: 114, 196
+  orig: 432, 243
+  offset: 224, 28
+  index: -1
+newhammer/hit_006
+  rotate: true
+  xy: 471, 577
+  size: 121, 194
+  orig: 432, 243
+  offset: 224, 30
+  index: -1
+newhammer/hit_007
+  rotate: true
+  xy: 235, 548
+  size: 126, 191
+  orig: 432, 243
+  offset: 224, 32
+  index: -1
+newhammer/hit_009
+  rotate: true
+  xy: 446, 447
+  size: 128, 184
+  orig: 432, 243
+  offset: 224, 36
+  index: -1
+newhammer/hit_010
+  rotate: true
+  xy: 20, 274
+  size: 129, 180
+  orig: 432, 243
+  offset: 225, 38
+  index: -1
+newhammer/hit_014
+  rotate: false
+  xy: 897, 364
+  size: 107, 153
+  orig: 432, 243
+  offset: 216, 48
+  index: -1
+newhammer/hit_015
+  rotate: false
+  xy: 220, 147
+  size: 94, 105
+  orig: 432, 243
+  offset: 184, 56
+  index: -1
+newhammer/hit_016
+  rotate: false
+  xy: 631, 321
+  size: 76, 73
+  orig: 432, 243
+  offset: 192, 63
+  index: -1
+newhammer/hit_023
+  rotate: true
+  xy: 897, 139
+  size: 66, 76
+  orig: 432, 243
+  offset: 198, 59
+  index: -1
+newhammer/new_tx01_002
+  rotate: false
+  xy: 20, 2
+  size: 147, 143
+  orig: 432, 243
+  offset: 139, 62
+  index: -1
+newhammer/up_000
+  rotate: false
+  xy: 685, 499
+  size: 192, 94
+  orig: 497, 497
+  offset: 147, 226
+  index: -1
+newhammer/up_001
+  rotate: true
+  xy: 911, 519
+  size: 193, 93
+  orig: 497, 497
+  offset: 146, 226
+  index: -1
+newhammer/up_002
+  rotate: false
+  xy: 685, 595
+  size: 194, 94
+  orig: 497, 497
+  offset: 145, 225
+  index: -1
+newhammer/up_003
+  rotate: false
+  xy: 696, 691
+  size: 195, 94
+  orig: 497, 497
+  offset: 144, 225
+  index: -1
+newhammer/up_004
+  rotate: false
+  xy: 477, 700
+  size: 199, 97
+  orig: 497, 497
+  offset: 141, 224
+  index: -1
+newhammer/up_005
+  rotate: false
+  xy: 477, 799
+  size: 201, 99
+  orig: 497, 497
+  offset: 139, 223
+  index: -1
+newhammer/up_006
+  rotate: false
+  xy: 255, 792
+  size: 202, 106
+  orig: 497, 497
+  offset: 138, 218
+  index: -1
+newhammer/up_009
+  rotate: false
+  xy: 20, 641
+  size: 195, 139
+  orig: 497, 497
+  offset: 143, 187
+  index: -1
+newhammer/up_011
+  rotate: false
+  xy: 222, 254
+  size: 180, 166
+  orig: 497, 497
+  offset: 155, 165
+  index: -1
+newhammer/up_020_1
+  rotate: false
+  xy: 514, 2
+  size: 77, 135
+  orig: 248, 248
+  offset: 89, 46
+  index: -1
+
+hammer3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hammer_004
+  rotate: false
+  xy: 211, 468
+  size: 172, 124
+  orig: 215, 215
+  offset: 25, 45
+  index: -1
+hammer_005
+  rotate: false
+  xy: 20, 452
+  size: 165, 124
+  orig: 215, 215
+  offset: 31, 45
+  index: -1
+hammer_007
+  rotate: false
+  xy: 403, 468
+  size: 156, 124
+  orig: 215, 215
+  offset: 39, 45
+  index: -1
+hammer_008
+  rotate: false
+  xy: 205, 341
+  size: 150, 125
+  orig: 215, 215
+  offset: 43, 45
+  index: -1
+hammer_009
+  rotate: false
+  xy: 20, 325
+  size: 149, 125
+  orig: 215, 215
+  offset: 43, 45
+  index: -1
+hammer_010
+  rotate: false
+  xy: 375, 341
+  size: 149, 125
+  orig: 215, 215
+  offset: 42, 45
+  index: -1
+hammer_015
+  rotate: false
+  xy: 744, 357
+  size: 170, 131
+  orig: 215, 215
+  offset: 24, 45
+  index: -1
+hammer_016
+  rotate: true
+  xy: 595, 419
+  size: 174, 129
+  orig: 215, 215
+  offset: 21, 45
+  index: -1
+hammer_light
+  rotate: false
+  xy: 367, 231
+  size: 113, 108
+  orig: 216, 122
+  offset: 53, 7
+  index: -1
+hammer_tx01_004
+  rotate: false
+  xy: 211, 594
+  size: 179, 153
+  orig: 432, 243
+  offset: 201, 90
+  index: -1
+hammer_tx01_005
+  rotate: false
+  xy: 410, 594
+  size: 165, 153
+  orig: 432, 243
+  offset: 201, 90
+  index: -1
+hammer_tx01_007
+  rotate: true
+  xy: 823, 80
+  size: 83, 87
+  orig: 432, 243
+  offset: 201, 90
+  index: -1
+hammer_tx02_002
+  rotate: true
+  xy: 859, 165
+  size: 79, 52
+  orig: 134, 76
+  offset: 35, 13
+  index: -1
+hammer_tx02_003
+  rotate: true
+  xy: 278, 33
+  size: 96, 57
+  orig: 134, 76
+  offset: 19, 10
+  index: -1
+hammer_tx02_007
+  rotate: true
+  xy: 966, 656
+  size: 91, 37
+  orig: 134, 76
+  offset: 20, 21
+  index: -1
+hammer_tx03_002
+  rotate: true
+  xy: 289, 131
+  size: 120, 58
+  orig: 172, 95
+  offset: 34, 15
+  index: -1
+hammer_tx03_003
+  rotate: true
+  xy: 934, 337
+  size: 148, 68
+  orig: 172, 95
+  offset: 10, 14
+  index: -1
+hammer_tx03_005
+  rotate: true
+  xy: 931, 187
+  size: 148, 68
+  orig: 172, 95
+  offset: 11, 13
+  index: -1
+hammer_tx03_007
+  rotate: true
+  xy: 931, 38
+  size: 147, 67
+  orig: 172, 95
+  offset: 8, 14
+  index: -1
+hammer_tx04_002
+  rotate: false
+  xy: 859, 246
+  size: 52, 109
+  orig: 83, 112
+  offset: 15, 3
+  index: -1
+hammer_tx04_003
+  rotate: true
+  xy: 694, 179
+  size: 63, 109
+  orig: 83, 112
+  offset: 10, 3
+  index: -1
+hammer_tx04_004
+  rotate: false
+  xy: 500, 230
+  size: 67, 109
+  orig: 83, 112
+  offset: 7, 3
+  index: -1
+hammer_tx04_005
+  rotate: true
+  xy: 20, 142
+  size: 61, 109
+  orig: 83, 112
+  offset: 12, 3
+  index: -1
+hammer_tx04_006
+  rotate: true
+  xy: 694, 114
+  size: 63, 109
+  orig: 83, 112
+  offset: 10, 3
+  index: -1
+hammer_tx04_007
+  rotate: true
+  xy: 149, 126
+  size: 61, 109
+  orig: 83, 112
+  offset: 12, 3
+  index: -1
+hammer_tx04_008
+  rotate: true
+  xy: 160, 189
+  size: 62, 109
+  orig: 83, 112
+  offset: 11, 3
+  index: -1
+hammer_tx05_003
+  rotate: false
+  xy: 355, 2
+  size: 32, 32
+  orig: 39, 35
+  offset: 3, 1
+  index: -1
+hammer_tx05_004
+  rotate: false
+  xy: 544, 399
+  size: 31, 32
+  orig: 39, 35
+  offset: 3, 1
+  index: -1
+hammer_tx05_008
+  rotate: false
+  xy: 966, 589
+  size: 33, 32
+  orig: 39, 35
+  offset: 2, 1
+  index: -1
+hammer_tx05_010
+  rotate: false
+  xy: 964, 555
+  size: 33, 32
+  orig: 39, 35
+  offset: 2, 1
+  index: -1
+hammer_tx05_011
+  rotate: false
+  xy: 964, 521
+  size: 33, 32
+  orig: 39, 35
+  offset: 2, 1
+  index: -1
+hammer_tx05_012
+  rotate: true
+  xy: 544, 433
+  size: 33, 31
+  orig: 39, 35
+  offset: 2, 1
+  index: -1
+hammer_tx05_013
+  rotate: false
+  xy: 964, 487
+  size: 33, 32
+  orig: 39, 35
+  offset: 2, 1
+  index: -1
+hammer_tx05_014
+  rotate: false
+  xy: 966, 623
+  size: 36, 31
+  orig: 39, 35
+  offset: 3, 1
+  index: -1
+hammer_tx06_001
+  rotate: false
+  xy: 355, 36
+  size: 67, 47
+  orig: 216, 122
+  offset: 75, 38
+  index: -1
+hammer_tx06_002
+  rotate: true
+  xy: 587, 124
+  size: 123, 87
+  orig: 216, 122
+  offset: 47, 12
+  index: -1
+newhammer/hit_000
+  rotate: true
+  xy: 189, 253
+  size: 86, 158
+  orig: 432, 243
+  offset: 184, 34
+  index: -1
+newhammer/hit_001
+  rotate: false
+  xy: 595, 249
+  size: 95, 168
+  orig: 432, 243
+  offset: 191, 33
+  index: -1
+newhammer/hit_011
+  rotate: true
+  xy: 770, 619
+  size: 128, 176
+  orig: 432, 243
+  offset: 224, 40
+  index: -1
+newhammer/hit_012
+  rotate: true
+  xy: 770, 490
+  size: 127, 174
+  orig: 432, 243
+  offset: 225, 41
+  index: -1
+newhammer/hit_017
+  rotate: true
+  xy: 20, 66
+  size: 74, 91
+  orig: 432, 243
+  offset: 192, 56
+  index: -1
+newhammer/hit_018
+  rotate: true
+  xy: 468, 92
+  size: 65, 82
+  orig: 432, 243
+  offset: 197, 58
+  index: -1
+newhammer/hit_019
+  rotate: true
+  xy: 367, 85
+  size: 68, 78
+  orig: 432, 243
+  offset: 196, 59
+  index: -1
+newhammer/hit_021
+  rotate: true
+  xy: 367, 155
+  size: 74, 81
+  orig: 432, 243
+  offset: 194, 56
+  index: -1
+newhammer/hit_022
+  rotate: true
+  xy: 468, 159
+  size: 69, 80
+  orig: 432, 243
+  offset: 197, 56
+  index: -1
+newhammer/hit_024
+  rotate: true
+  xy: 570, 58
+  size: 64, 74
+  orig: 432, 243
+  offset: 199, 61
+  index: -1
+newhammer/hit_025
+  rotate: true
+  xy: 465, 28
+  size: 62, 71
+  orig: 432, 243
+  offset: 199, 63
+  index: -1
+newhammer/hit_026
+  rotate: true
+  xy: 710, 244
+  size: 111, 129
+  orig: 864, 486
+  offset: 404, 133
+  index: -1
+newhammer/new_tx01_001
+  rotate: false
+  xy: 20, 205
+  size: 120, 118
+  orig: 432, 243
+  offset: 152, 74
+  index: -1
+newhammer/new_tx01_003
+  rotate: false
+  xy: 595, 595
+  size: 155, 152
+  orig: 432, 243
+  offset: 135, 57
+  index: -1
+newhammer/new_tx01_004
+  rotate: false
+  xy: 20, 578
+  size: 171, 169
+  orig: 432, 243
+  offset: 124, 49
+  index: -1

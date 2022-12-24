@@ -1,0 +1,232 @@
+
+dragon_panel.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_p
+  rotate: false
+  xy: 566, 909
+  size: 318, 113
+  orig: 318, 114
+  offset: 0, 1
+  index: -1
+dragon_p_000
+  rotate: true
+  xy: 51, 7
+  size: 30, 39
+  orig: 159, 57
+  offset: 2, 6
+  index: -1
+dragon_p_001
+  rotate: true
+  xy: 862, 404
+  size: 52, 41
+  orig: 159, 57
+  offset: 4, 12
+  index: -1
+dragon_p_002
+  rotate: true
+  xy: 406, 379
+  size: 68, 43
+  orig: 159, 57
+  offset: 11, 12
+  index: -1
+dragon_p_003
+  rotate: false
+  xy: 333, 404
+  size: 71, 43
+  orig: 159, 57
+  offset: 32, 12
+  index: -1
+dragon_p_004
+  rotate: false
+  xy: 333, 359
+  size: 71, 43
+  orig: 159, 57
+  offset: 55, 12
+  index: -1
+dragon_p_005
+  rotate: false
+  xy: 451, 412
+  size: 68, 43
+  orig: 159, 57
+  offset: 79, 12
+  index: -1
+dragon_p_006
+  rotate: false
+  xy: 818, 864
+  size: 47, 43
+  orig: 159, 57
+  offset: 102, 12
+  index: -1
+dragon_p_007
+  rotate: true
+  xy: 451, 381
+  size: 29, 37
+  orig: 159, 57
+  offset: 126, 16
+  index: -1
+dragon_panel
+  rotate: false
+  xy: 2, 698
+  size: 322, 324
+  orig: 322, 324
+  offset: 0, 0
+  index: -1
+number
+  rotate: false
+  xy: 560, 769
+  size: 4, 4
+  orig: 246, 59
+  offset: 127, 19
+  index: -1
+panel_tx/panel_tx01_012
+  rotate: false
+  xy: 932, 755
+  size: 22, 23
+  orig: 322, 320
+  offset: 144, 153
+  index: -1
+panel_tx/panel_tx01_013
+  rotate: false
+  xy: 751, 363
+  size: 109, 93
+  orig: 322, 320
+  offset: 103, 112
+  index: -1
+panel_tx/panel_tx01_014
+  rotate: true
+  xy: 440, 457
+  size: 158, 113
+  orig: 322, 320
+  offset: 78, 100
+  index: -1
+panel_tx/panel_tx01_015
+  rotate: false
+  xy: 555, 411
+  size: 194, 133
+  orig: 322, 320
+  offset: 59, 90
+  index: -1
+panel_tx/panel_tx01_016
+  rotate: false
+  xy: 326, 617
+  size: 232, 156
+  orig: 322, 320
+  offset: 48, 78
+  index: -1
+panel_tx/panel_tx01_017
+  rotate: false
+  xy: 566, 743
+  size: 250, 164
+  orig: 322, 320
+  offset: 38, 76
+  index: -1
+panel_tx/panel_tx01_018
+  rotate: false
+  xy: 2, 39
+  size: 247, 178
+  orig: 322, 320
+  offset: 39, 78
+  index: -1
+panel_tx/panel_tx04_048
+  rotate: false
+  xy: 2, 440
+  size: 254, 256
+  orig: 322, 320
+  offset: 34, 30
+  index: -1
+panel_tx/panel_tx04_049
+  rotate: false
+  xy: 326, 775
+  size: 238, 247
+  orig: 322, 320
+  offset: 46, 34
+  index: -1
+panel_tx/panel_tx04_051
+  rotate: false
+  xy: 2, 219
+  size: 221, 219
+  orig: 322, 320
+  offset: 55, 46
+  index: -1
+panel_tx/panel_tx04_053
+  rotate: false
+  xy: 560, 546
+  size: 202, 195
+  orig: 322, 320
+  offset: 60, 62
+  index: -1
+panel_tx/panel_tx04_055
+  rotate: false
+  xy: 258, 449
+  size: 180, 166
+  orig: 322, 320
+  offset: 65, 74
+  index: -1
+panel_tx/panel_tx04_057
+  rotate: true
+  xy: 886, 864
+  size: 158, 135
+  orig: 322, 320
+  offset: 76, 92
+  index: -1
+panel_tx/panel_tx04_059
+  rotate: false
+  xy: 818, 753
+  size: 112, 109
+  orig: 322, 320
+  offset: 110, 104
+  index: -1
+panel_tx/panel_tx04_060
+  rotate: false
+  xy: 225, 232
+  size: 93, 96
+  orig: 322, 320
+  offset: 121, 114
+  index: -1
+panel_tx/panel_tx05_049
+  rotate: false
+  xy: 764, 588
+  size: 153, 153
+  orig: 322, 320
+  offset: 85, 83
+  index: -1
+panel_tx/panel_tx05_051
+  rotate: true
+  xy: 764, 458
+  size: 128, 129
+  orig: 322, 320
+  offset: 97, 96
+  index: -1
+panel_tx/panel_tx05_053
+  rotate: true
+  xy: 225, 330
+  size: 108, 106
+  orig: 322, 320
+  offset: 104, 109
+  index: -1
+panel_tx/panel_tx05_055
+  rotate: false
+  xy: 932, 780
+  size: 87, 82
+  orig: 322, 320
+  offset: 111, 122
+  index: -1
+panel_tx/panel_tx05_057
+  rotate: true
+  xy: 258, 628
+  size: 68, 58
+  orig: 322, 320
+  offset: 122, 135
+  index: -1
+panel_tx/panel_tx05_059
+  rotate: false
+  xy: 2, 2
+  size: 47, 35
+  orig: 322, 320
+  offset: 136, 147
+  index: -1
+
+lan/[lan]/dragon_panel_lan.atlas

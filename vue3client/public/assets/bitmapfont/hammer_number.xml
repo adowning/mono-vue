@@ -1,0 +1,26 @@
+<font>
+	<info face="hammer_number" size="59" />
+	<common lineHeight="59" scaleW="128" scaleH="256" pages="1" />
+	<pages>
+		<page id="0" file="hammer_number.png" />
+	</pages>
+	<chars count="15">
+		<char id="48" x="0" y="153" width="35" height="52" xoffset="0" yoffset="8" xadvance="35" /><!-- 0 -->
+		<char id="49" x="101" y="106" width="20" height="50" xoffset="0" yoffset="9" xadvance="20" /><!-- 1 -->
+		<char id="50" x="36" y="102" width="34" height="51" xoffset="0" yoffset="8" xadvance="34" /><!-- 2 -->
+		<char id="51" x="44" y="0" width="31" height="52" xoffset="0" yoffset="8" xadvance="31" /><!-- 3 -->
+		<char id="52" x="0" y="51" width="36" height="50" xoffset="0" yoffset="9" xadvance="36" /><!-- 4 -->
+		<char id="53" x="36" y="154" width="32" height="51" xoffset="0" yoffset="9" xadvance="32" /><!-- 5 -->
+		<char id="54" x="76" y="0" width="30" height="51" xoffset="0" yoffset="9" xadvance="30" /><!-- 6 -->
+		<char id="55" x="0" y="102" width="35" height="50" xoffset="0" yoffset="9" xadvance="35" /><!-- 7 -->
+		<char id="56" x="71" y="53" width="30" height="52" xoffset="0" yoffset="8" xadvance="30" /><!-- 8 -->
+		<char id="57" x="69" y="154" width="31" height="51" xoffset="0" yoffset="8" xadvance="31" /><!-- 9 -->
+		<char id="44" x="0" y="206" width="15" height="18" xoffset="0" yoffset="49" xadvance="15" /><!-- , -->
+		<char id="46" x="0" y="225" width="13" height="14" xoffset="0" yoffset="46" xadvance="13" /><!-- . -->
+		<char id="88" x="0" y="0" width="43" height="50" xoffset="0" yoffset="9" xadvance="43" /><!-- X -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="22" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="176" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

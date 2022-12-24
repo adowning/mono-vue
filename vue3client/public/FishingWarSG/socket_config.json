@@ -1,0 +1,13 @@
+{
+
+"port":"22054/slots",
+
+"host":"casino.ashdevtools.com",
+"prefix":"https://",
+
+"host_ws":"arcade.ashdevtools.com",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}

@@ -1,0 +1,13 @@
+{
+
+    "port":"4443/server",
+    
+    "host":"casino.ashdevtools.com",
+    "prefix":"https://",
+    
+    "host_ws":"casino.ashdevtools.com",
+    "prefix_ws":"wss://",
+    
+    "ssl":true
+    
+    }

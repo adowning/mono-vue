@@ -1,0 +1,111 @@
+
+box.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shining_Celebration
+  rotate: false
+  xy: 2, 564
+  size: 458, 458
+  orig: 458, 458
+  offset: 0, 0
+  index: -1
+Treasure-box_Top
+  rotate: false
+  xy: 462, 708
+  size: 299, 142
+  orig: 299, 142
+  offset: 0, 0
+  index: -1
+Treasure-box_bottom
+  rotate: false
+  xy: 462, 852
+  size: 293, 170
+  orig: 293, 170
+  offset: 0, 0
+  index: -1
+box_g
+  rotate: true
+  xy: 678, 545
+  size: 161, 113
+  orig: 161, 113
+  offset: 0, 0
+  index: -1
+guang_000
+  rotate: true
+  xy: 2, 76
+  size: 486, 402
+  orig: 486, 402
+  offset: 0, 0
+  index: -1
+light_000
+  rotate: false
+  xy: 763, 736
+  size: 152, 73
+  orig: 258, 134
+  offset: 59, 27
+  index: -1
+light_001
+  rotate: true
+  xy: 940, 867
+  size: 155, 77
+  orig: 258, 134
+  offset: 58, 28
+  index: -1
+light_002
+  rotate: false
+  xy: 763, 811
+  size: 160, 85
+  orig: 258, 134
+  offset: 56, 25
+  index: -1
+light_di_000
+  rotate: false
+  xy: 757, 898
+  size: 181, 124
+  orig: 377, 227
+  offset: 91, 48
+  index: -1
+light_di_001
+  rotate: false
+  xy: 462, 521
+  size: 214, 185
+  orig: 377, 227
+  offset: 77, 18
+  index: -1
+zha_001
+  rotate: false
+  xy: 142, 13
+  size: 60, 61
+  orig: 129, 121
+  offset: 37, 27
+  index: -1
+zha_002
+  rotate: false
+  xy: 204, 14
+  size: 60, 60
+  orig: 129, 121
+  offset: 37, 28
+  index: -1
+zha_003
+  rotate: false
+  xy: 793, 659
+  size: 74, 75
+  orig: 129, 121
+  offset: 30, 20
+  index: -1
+zha_004
+  rotate: false
+  xy: 80, 10
+  size: 60, 64
+  orig: 129, 121
+  offset: 35, 26
+  index: -1
+zha_005
+  rotate: true
+  xy: 2, 2
+  size: 72, 76
+  orig: 129, 121
+  offset: 29, 19
+  index: -1

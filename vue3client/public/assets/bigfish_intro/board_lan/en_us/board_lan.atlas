@@ -1,0 +1,244 @@
+
+board_lan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AzureStone_Title
+  rotate: false
+  xy: 454, 932
+  size: 420, 90
+  orig: 1008, 567
+  offset: 294, 234
+  index: -1
+AzureStone_Title_000
+  rotate: false
+  xy: 296, 391
+  size: 22, 20
+  orig: 504, 284
+  offset: 141, 114
+  index: -1
+AzureStone_Title_001
+  rotate: false
+  xy: 885, 799
+  size: 60, 60
+  orig: 504, 284
+  offset: 141, 114
+  index: -1
+AzureStone_Title_002
+  rotate: false
+  xy: 664, 680
+  size: 86, 80
+  orig: 504, 284
+  offset: 153, 115
+  index: -1
+AzureStone_Title_003
+  rotate: true
+  xy: 353, 491
+  size: 108, 80
+  orig: 504, 284
+  offset: 170, 117
+  index: -1
+AzureStone_Title_004
+  rotate: false
+  xy: 876, 943
+  size: 113, 79
+  orig: 504, 284
+  offset: 206, 116
+  index: -1
+AzureStone_Title_005
+  rotate: false
+  xy: 878, 861
+  size: 109, 80
+  orig: 504, 284
+  offset: 247, 115
+  index: -1
+AzureStone_Title_006
+  rotate: true
+  xy: 752, 680
+  size: 80, 83
+  orig: 504, 284
+  offset: 283, 114
+  index: -1
+Azure_Group
+  rotate: false
+  xy: 2, 808
+  size: 450, 214
+  orig: 1008, 567
+  offset: 279, 181
+  index: -1
+Dragon_Title
+  rotate: false
+  xy: 2, 601
+  size: 429, 205
+  orig: 582, 295
+  offset: 80, 39
+  index: -1
+Dragon_coming
+  rotate: false
+  xy: 2, 183
+  size: 280, 83
+  orig: 582, 295
+  offset: 157, 17
+  index: -1
+Fire_Amount
+  rotate: false
+  xy: 677, 762
+  size: 207, 29
+  orig: 562, 235
+  offset: 187, 28
+  index: -1
+Fire_Title
+  rotate: false
+  xy: 2, 118
+  size: 283, 63
+  orig: 562, 235
+  offset: 147, 53
+  index: -1
+Pirate_ARRIVING
+  rotate: false
+  xy: 454, 787
+  size: 221, 64
+  orig: 491, 319
+  offset: 131, 10
+  index: -1
+Pirate_Title
+  rotate: false
+  xy: 2, 496
+  size: 349, 103
+  orig: 491, 319
+  offset: 72, 78
+  index: -1
+START
+  rotate: false
+  xy: 677, 793
+  size: 160, 58
+  orig: 562, 235
+  offset: 207, 58
+  index: -1
+hammer_Backdrop2_000
+  rotate: true
+  xy: 350, 421
+  size: 68, 88
+  orig: 212, 142
+  offset: 1, 23
+  index: -1
+hammer_Backdrop2_001
+  rotate: false
+  xy: 558, 680
+  size: 104, 105
+  orig: 212, 142
+  offset: 10, 17
+  index: -1
+hammer_Backdrop2_002
+  rotate: false
+  xy: 2, 2
+  size: 121, 114
+  orig: 212, 142
+  offset: 33, 18
+  index: -1
+hammer_Backdrop2_003
+  rotate: false
+  xy: 433, 666
+  size: 123, 119
+  orig: 212, 142
+  offset: 68, 22
+  index: -1
+hammer_Backdrop2_004
+  rotate: false
+  xy: 125, 4
+  size: 107, 112
+  orig: 212, 142
+  offset: 104, 27
+  index: -1
+hammer_Backdrop2_005
+  rotate: false
+  xy: 296, 413
+  size: 52, 81
+  orig: 212, 142
+  offset: 157, 41
+  index: -1
+hammer_Title
+  rotate: false
+  xy: 2, 268
+  size: 276, 115
+  orig: 425, 285
+  offset: 77, 86
+  index: -1
+monkey_Arriving
+  rotate: false
+  xy: 2, 385
+  size: 292, 109
+  orig: 462, 206
+  offset: 96, 5
+  index: -1
+monkey_Title
+  rotate: false
+  xy: 454, 853
+  size: 351, 77
+  orig: 462, 206
+  offset: 59, 93
+  index: -1
+monkey_tx01_000
+  rotate: false
+  xy: 839, 794
+  size: 44, 57
+  orig: 231, 103
+  offset: 0, 40
+  index: -1
+monkey_tx01_001
+  rotate: true
+  xy: 807, 853
+  size: 77, 69
+  orig: 231, 103
+  offset: 0, 31
+  index: -1
+monkey_tx01_002
+  rotate: false
+  xy: 435, 533
+  size: 104, 67
+  orig: 231, 103
+  offset: 4, 30
+  index: -1
+monkey_tx01_003
+  rotate: true
+  xy: 234, 18
+  size: 98, 62
+  orig: 231, 103
+  offset: 42, 36
+  index: -1
+monkey_tx01_004
+  rotate: false
+  xy: 433, 602
+  size: 106, 62
+  orig: 231, 103
+  offset: 69, 36
+  index: -1
+monkey_tx01_005
+  rotate: true
+  xy: 837, 669
+  size: 91, 67
+  orig: 231, 103
+  offset: 110, 32
+  index: -1
+monkey_tx01_006
+  rotate: false
+  xy: 440, 466
+  size: 84, 65
+  orig: 231, 103
+  offset: 137, 34
+  index: -1
+monkey_tx01_007
+  rotate: false
+  xy: 440, 407
+  size: 61, 57
+  orig: 231, 103
+  offset: 170, 44
+  index: -1
+monkey_tx01_008
+  rotate: false
+  xy: 991, 987
+  size: 31, 35
+  orig: 231, 103
+  offset: 200, 67
+  index: -1

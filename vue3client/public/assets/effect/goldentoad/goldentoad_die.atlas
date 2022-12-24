@@ -1,0 +1,97 @@
+
+goldentoad_die.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+txlight_000
+  rotate: false
+  xy: 949, 254
+  size: 37, 36
+  orig: 352, 344
+  offset: 149, 150
+  index: -1
+txlight_001
+  rotate: false
+  xy: 330, 37
+  size: 62, 61
+  orig: 352, 344
+  offset: 137, 137
+  index: -1
+txlight_002
+  rotate: false
+  xy: 242, 14
+  size: 86, 84
+  orig: 352, 344
+  offset: 125, 126
+  index: -1
+txlight_003
+  rotate: false
+  xy: 842, 188
+  size: 105, 102
+  orig: 352, 344
+  offset: 116, 117
+  index: -1
+txlight_004
+  rotate: true
+  xy: 721, 156
+  size: 121, 119
+  orig: 352, 344
+  offset: 108, 109
+  index: -1
+txlight_005
+  rotate: false
+  xy: 584, 146
+  size: 135, 131
+  orig: 352, 344
+  offset: 101, 104
+  index: -1
+txlight_006
+  rotate: false
+  xy: 430, 130
+  size: 152, 147
+  orig: 352, 344
+  offset: 92, 96
+  index: -1
+txlight_007
+  rotate: false
+  xy: 244, 100
+  size: 184, 178
+  orig: 352, 344
+  offset: 77, 79
+  index: -1
+txlight_008
+  rotate: true
+  xy: 768, 292
+  size: 217, 232
+  orig: 352, 344
+  offset: 59, 52
+  index: -1
+txlight_009
+  rotate: false
+  xy: 2, 250
+  size: 240, 259
+  orig: 352, 344
+  offset: 48, 39
+  index: -1
+txlight_010
+  rotate: true
+  xy: 508, 279
+  size: 230, 258
+  orig: 352, 344
+  offset: 49, 40
+  index: -1
+txlight_011
+  rotate: true
+  xy: 244, 280
+  size: 229, 262
+  orig: 352, 344
+  offset: 49, 37
+  index: -1
+txlight_012
+  rotate: false
+  xy: 2, 2
+  size: 238, 246
+  orig: 352, 344
+  offset: 49, 45
+  index: -1

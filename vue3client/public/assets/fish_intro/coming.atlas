@@ -1,0 +1,57 @@
+
+coming.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1b
+  rotate: false
+  xy: 367, 704
+  size: 305, 305
+  orig: 1440, 810
+  offset: 568, 254
+  index: -1
+2b
+  rotate: false
+  xy: 674, 782
+  size: 315, 227
+  orig: 1440, 810
+  offset: 601, 284
+  index: -1
+2b_000
+  rotate: false
+  xy: 258, 233
+  size: 184, 164
+  orig: 720, 405
+  offset: 274, 117
+  index: -1
+3a
+  rotate: true
+  xy: 2, 183
+  size: 461, 254
+  orig: 1440, 810
+  offset: 524, 228
+  index: -1
+3a_000
+  rotate: false
+  xy: 2, 2
+  size: 256, 179
+  orig: 720, 405
+  offset: 237, 86
+  index: -1
+3b
+  rotate: false
+  xy: 2, 646
+  size: 363, 363
+  orig: 1440, 810
+  offset: 541, 225
+  index: -1
+6
+  rotate: true
+  xy: 258, 399
+  size: 245, 221
+  orig: 951, 586
+  offset: 353, 165
+  index: -1
+
+lan/[lan]/coming_lan.atlas

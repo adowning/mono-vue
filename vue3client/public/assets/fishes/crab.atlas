@@ -1,0 +1,530 @@
+
+crab.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 810, 93
+  size: 145, 119
+  orig: 225, 225
+  offset: 41, 41
+  index: -1
+4
+  rotate: true
+  xy: 810, 240
+  size: 157, 108
+  orig: 225, 225
+  offset: 35, 49
+  index: -1
+Ecliptic Crab_armup_R
+  rotate: true
+  xy: 908, 748
+  size: 57, 36
+  orig: 399, 399
+  offset: 99, 201
+  index: -1
+Ecliptic Crab_bodyonly
+  rotate: false
+  xy: 70, 623
+  size: 399, 399
+  orig: 399, 399
+  offset: 0, 0
+  index: -1
+Ecliptic Crab_clawbig_L
+  rotate: false
+  xy: 775, 33
+  size: 94, 58
+  orig: 399, 399
+  offset: 187, 76
+  index: -1
+Ecliptic Crab_clawbig_R
+  rotate: true
+  xy: 908, 699
+  size: 47, 37
+  orig: 399, 399
+  offset: 133, 116
+  index: -1
+Ecliptic Crab_clawsmall_R
+  rotate: false
+  xy: 440, 461
+  size: 26, 35
+  orig: 399, 399
+  offset: 144, 141
+  index: -1
+Ecliptic Crab_downleg_L1
+  rotate: false
+  xy: 918, 419
+  size: 28, 39
+  orig: 399, 399
+  offset: 316, 174
+  index: -1
+Ecliptic Crab_downleg_L2
+  rotate: true
+  xy: 775, 2
+  size: 29, 36
+  orig: 399, 399
+  offset: 318, 208
+  index: -1
+Ecliptic Crab_downleg_L3
+  rotate: false
+  xy: 440, 428
+  size: 28, 31
+  orig: 399, 399
+  offset: 317, 248
+  index: -1
+Ecliptic Crab_downleg_L4
+  rotate: false
+  xy: 918, 460
+  size: 32, 40
+  orig: 399, 399
+  offset: 306, 243
+  index: -1
+Ecliptic Crab_downleg_R1
+  rotate: false
+  xy: 918, 643
+  size: 34, 54
+  orig: 399, 399
+  offset: 53, 168
+  index: -1
+Ecliptic Crab_downleg_R2
+  rotate: false
+  xy: 918, 592
+  size: 30, 49
+  orig: 399, 399
+  offset: 57, 199
+  index: -1
+Ecliptic Crab_downleg_R3
+  rotate: false
+  xy: 918, 545
+  size: 30, 45
+  orig: 399, 399
+  offset: 72, 239
+  index: -1
+Ecliptic Crab_eye_left
+  rotate: true
+  xy: 918, 399
+  size: 18, 20
+  orig: 399, 399
+  offset: 158, 216
+  index: -1
+Ecliptic Crab_eye_right
+  rotate: false
+  xy: 881, 5
+  size: 18, 19
+  orig: 399, 399
+  offset: 225, 215
+  index: -1
+Ecliptic Crab_eye_white
+  rotate: false
+  xy: 469, 2
+  size: 89, 19
+  orig: 399, 399
+  offset: 156, 212
+  index: -1
+Ecliptic Crab_facethorn_left
+  rotate: false
+  xy: 918, 502
+  size: 30, 41
+  orig: 399, 399
+  offset: 141, 189
+  index: -1
+Ecliptic Crab_facethorn_right
+  rotate: true
+  xy: 628, 2
+  size: 28, 42
+  orig: 399, 399
+  offset: 231, 191
+  index: -1
+Ecliptic Crab_handdown_L_back
+  rotate: false
+  xy: 620, 32
+  size: 85, 73
+  orig: 399, 399
+  offset: 205, 134
+  index: -1
+Ecliptic Crab_handdown_R
+  rotate: false
+  xy: 469, 23
+  size: 81, 82
+  orig: 399, 399
+  offset: 78, 126
+  index: -1
+Ecliptic Crab_mouth_left
+  rotate: false
+  xy: 939, 66
+  size: 13, 25
+  orig: 399, 399
+  offset: 184, 194
+  index: -1
+Ecliptic Crab_mouth_right
+  rotate: false
+  xy: 939, 39
+  size: 12, 25
+  orig: 399, 399
+  offset: 204, 197
+  index: -1
+Ecliptic Crab_upleg_L1
+  rotate: true
+  xy: 908, 877
+  size: 69, 33
+  orig: 399, 399
+  offset: 261, 200
+  index: -1
+Ecliptic Crab_upleg_L2
+  rotate: true
+  xy: 440, 498
+  size: 58, 21
+  orig: 399, 399
+  offset: 272, 234
+  index: -1
+Ecliptic Crab_upleg_L3
+  rotate: true
+  xy: 908, 948
+  size: 74, 35
+  orig: 399, 399
+  offset: 251, 246
+  index: -1
+Ecliptic Crab_upleg_R1
+  rotate: true
+  xy: 908, 807
+  size: 68, 33
+  orig: 399, 399
+  offset: 71, 207
+  index: -1
+Ecliptic Crab_upleg_R2
+  rotate: true
+  xy: 440, 558
+  size: 63, 27
+  orig: 399, 399
+  offset: 70, 231
+  index: -1
+shan_003
+  rotate: true
+  xy: 939, 26
+  size: 11, 12
+  orig: 68, 40
+  offset: 29, 14
+  index: -1
+shan_008
+  rotate: false
+  xy: 440, 400
+  size: 26, 26
+  orig: 68, 40
+  offset: 21, 7
+  index: -1
+txlight_008
+  rotate: false
+  xy: 469, 107
+  size: 271, 290
+  orig: 440, 431
+  offset: 74, 65
+  index: -1
+txlight_009
+  rotate: false
+  xy: 70, 295
+  size: 300, 326
+  orig: 440, 431
+  offset: 60, 48
+  index: -1
+txlight_010
+  rotate: false
+  xy: 539, 699
+  size: 299, 323
+  orig: 440, 431
+  offset: 50, 50
+  index: -1
+txlight_011
+  rotate: true
+  xy: 70, 6
+  size: 287, 329
+  orig: 440, 431
+  offset: 61, 46
+  index: -1
+txlight_012
+  rotate: true
+  xy: 539, 399
+  size: 298, 309
+  orig: 440, 431
+  offset: 61, 56
+  index: -1
+
+crab2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 784, 726
+  size: 143, 115
+  orig: 225, 225
+  offset: 43, 44
+  index: -1
+3
+  rotate: true
+  xy: 258, 172
+  size: 153, 112
+  orig: 225, 225
+  offset: 37, 48
+  index: -1
+5
+  rotate: true
+  xy: 70, 112
+  size: 153, 110
+  orig: 225, 225
+  offset: 38, 49
+  index: -1
+6
+  rotate: true
+  xy: 250, 21
+  size: 149, 110
+  orig: 225, 225
+  offset: 39, 50
+  index: -1
+7
+  rotate: true
+  xy: 555, 139
+  size: 150, 110
+  orig: 225, 225
+  offset: 36, 50
+  index: -1
+8
+  rotate: false
+  xy: 330, 327
+  size: 157, 111
+  orig: 225, 225
+  offset: 35, 49
+  index: -1
+8_1
+  rotate: false
+  xy: 671, 598
+  size: 156, 113
+  orig: 225, 225
+  offset: 36, 45
+  index: -1
+9
+  rotate: true
+  xy: 557, 291
+  size: 147, 117
+  orig: 225, 225
+  offset: 41, 42
+  index: -1
+Ecliptic Crab_armup_L
+  rotate: true
+  xy: 430, 114
+  size: 56, 55
+  orig: 399, 399
+  offset: 238, 189
+  index: -1
+Ecliptic Crab_brows_left
+  rotate: true
+  xy: 555, 84
+  size: 53, 62
+  orig: 399, 399
+  offset: 141, 217
+  index: -1
+Ecliptic Crab_brows_right
+  rotate: false
+  xy: 687, 81
+  size: 50, 56
+  orig: 399, 399
+  offset: 208, 226
+  index: -1
+Ecliptic Crab_clawsmall_L
+  rotate: true
+  xy: 564, 441
+  size: 40, 54
+  orig: 399, 399
+  offset: 202, 111
+  index: -1
+Ecliptic Crab_downleg_R4
+  rotate: false
+  xy: 440, 234
+  size: 43, 44
+  orig: 399, 399
+  offset: 72, 260
+  index: -1
+Ecliptic Crab_elbow_R
+  rotate: false
+  xy: 564, 525
+  size: 24, 25
+  orig: 399, 399
+  offset: 90, 189
+  index: -1
+Ecliptic Crab_handdown_L
+  rotate: false
+  xy: 664, 483
+  size: 116, 113
+  orig: 399, 399
+  offset: 219, 91
+  index: -1
+Ecliptic Crab_shoulderarmour_L
+  rotate: false
+  xy: 430, 32
+  size: 52, 80
+  orig: 399, 399
+  offset: 238, 213
+  index: -1
+Ecliptic Crab_shoulderarmour_R
+  rotate: true
+  xy: 735, 241
+  size: 48, 77
+  orig: 399, 399
+  offset: 112, 211
+  index: -1
+Ecliptic Crab_upleg_L4
+  rotate: false
+  xy: 510, 633
+  size: 91, 58
+  orig: 399, 399
+  offset: 225, 240
+  index: -1
+Ecliptic Crab_upleg_R3
+  rotate: false
+  xy: 688, 441
+  size: 48, 40
+  orig: 399, 399
+  offset: 92, 247
+  index: -1
+Ecliptic Crab_upleg_R4
+  rotate: true
+  xy: 564, 580
+  size: 32, 30
+  orig: 399, 399
+  offset: 102, 271
+  index: -1
+shan_000
+  rotate: true
+  xy: 864, 717
+  size: 7, 8
+  orig: 68, 40
+  offset: 31, 16
+  index: -1
+shan_001
+  rotate: true
+  xy: 864, 717
+  size: 7, 8
+  orig: 68, 40
+  offset: 31, 16
+  index: -1
+shan_002
+  rotate: true
+  xy: 784, 715
+  size: 9, 10
+  orig: 68, 40
+  offset: 30, 15
+  index: -1
+shan_004
+  rotate: false
+  xy: 564, 483
+  size: 14, 14
+  orig: 68, 40
+  offset: 27, 13
+  index: -1
+shan_005
+  rotate: false
+  xy: 510, 614
+  size: 17, 17
+  orig: 68, 40
+  offset: 26, 11
+  index: -1
+shan_006
+  rotate: false
+  xy: 564, 499
+  size: 24, 24
+  orig: 68, 40
+  offset: 22, 8
+  index: -1
+shan_007
+  rotate: false
+  xy: 564, 499
+  size: 24, 24
+  orig: 68, 40
+  offset: 22, 8
+  index: -1
+shan_009
+  rotate: false
+  xy: 564, 552
+  size: 26, 26
+  orig: 68, 40
+  offset: 22, 7
+  index: -1
+shan_010
+  rotate: false
+  xy: 440, 208
+  size: 23, 24
+  orig: 68, 40
+  offset: 23, 8
+  index: -1
+shan_011
+  rotate: true
+  xy: 583, 694
+  size: 17, 18
+  orig: 68, 40
+  offset: 26, 11
+  index: -1
+txlight_000
+  rotate: false
+  xy: 440, 280
+  size: 45, 45
+  orig: 440, 431
+  offset: 187, 188
+  index: -1
+txlight_001
+  rotate: false
+  xy: 362, 615
+  size: 78, 76
+  orig: 440, 431
+  offset: 171, 172
+  index: -1
+txlight_002
+  rotate: true
+  xy: 70, 2
+  size: 108, 105
+  orig: 440, 431
+  offset: 156, 158
+  index: -1
+txlight_003
+  rotate: false
+  xy: 583, 713
+  size: 131, 128
+  orig: 440, 431
+  offset: 145, 146
+  index: -1
+txlight_004
+  rotate: false
+  xy: 362, 693
+  size: 151, 148
+  orig: 440, 431
+  offset: 135, 137
+  index: -1
+txlight_005
+  rotate: true
+  xy: 330, 440
+  size: 169, 164
+  orig: 440, 431
+  offset: 126, 130
+  index: -1
+txlight_006
+  rotate: false
+  xy: 70, 425
+  size: 190, 184
+  orig: 440, 431
+  offset: 115, 120
+  index: -1
+txlight_007
+  rotate: true
+  xy: 70, 611
+  size: 230, 222
+  orig: 440, 431
+  offset: 96, 100
+  index: -1
+xx1_000
+  rotate: true
+  xy: 70, 267
+  size: 156, 118
+  orig: 225, 225
+  offset: 30, 53
+  index: -1

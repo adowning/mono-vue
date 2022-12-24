@@ -1,0 +1,25 @@
+﻿<font>
+	<info face="firestorm_number" size="54" />
+	<common lineHeight="54" scaleW="128" scaleH="256" pages="1" />
+	<pages>
+		<page id="0" file="firestorm_number.png" />
+	</pages>
+	<chars count="14">
+		<char id="48" x="35" y="45" width="33" height="44" xoffset="0" yoffset="10" xadvance="33" /><!-- 0 -->
+		<char id="49" x="35" y="180" width="24" height="44" xoffset="0" yoffset="10" xadvance="24" /><!-- 1 -->
+		<char id="50" x="0" y="0" width="34" height="44" xoffset="0" yoffset="10" xadvance="34" /><!-- 2 -->
+		<char id="51" x="0" y="45" width="34" height="44" xoffset="0" yoffset="10" xadvance="34" /><!-- 3 -->
+		<char id="52" x="35" y="0" width="34" height="44" xoffset="0" yoffset="10" xadvance="34" /><!-- 4 -->
+		<char id="53" x="0" y="135" width="34" height="44" xoffset="0" yoffset="10" xadvance="34" /><!-- 5 -->
+		<char id="54" x="35" y="135" width="33" height="44" xoffset="0" yoffset="10" xadvance="33" /><!-- 6 -->
+		<char id="55" x="0" y="180" width="34" height="44" xoffset="0" yoffset="10" xadvance="34" /><!-- 7 -->
+		<char id="56" x="35" y="90" width="33" height="44" xoffset="0" yoffset="10" xadvance="33" /><!-- 8 -->
+		<char id="57" x="0" y="90" width="34" height="44" xoffset="0" yoffset="10" xadvance="34" /><!-- 9 -->
+		<char id="44" x="19" y="225" width="17" height="24" xoffset="0" yoffset="40" xadvance="17" /><!-- , -->
+		<char id="46" x="0" y="225" width="18" height="16" xoffset="0" yoffset="38" xadvance="18" /><!-- . -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="22" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="176" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

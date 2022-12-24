@@ -1,0 +1,332 @@
+
+dragon_after.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire/fire_013
+  rotate: true
+  xy: 326, 39
+  size: 388, 104
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_014
+  rotate: true
+  xy: 219, 39
+  size: 388, 105
+  orig: 504, 284
+  offset: 1, 97
+  index: -1
+fire/fire_015
+  rotate: true
+  xy: 111, 39
+  size: 388, 106
+  orig: 504, 284
+  offset: 2, 97
+  index: -1
+fire/fire_017
+  rotate: true
+  xy: 2, 39
+  size: 388, 107
+  orig: 504, 284
+  offset: 4, 97
+  index: -1
+fire/fire_018
+  rotate: true
+  xy: 656, 40
+  size: 387, 108
+  orig: 504, 284
+  offset: 6, 97
+  index: -1
+fire/fire_019
+  rotate: true
+  xy: 766, 40
+  size: 387, 108
+  orig: 504, 284
+  offset: 7, 97
+  index: -1
+fire/fire_021
+  rotate: true
+  xy: 545, 40
+  size: 387, 109
+  orig: 504, 284
+  offset: 9, 97
+  index: -1
+fire/fire_024
+  rotate: true
+  xy: 432, 40
+  size: 387, 111
+  orig: 504, 284
+  offset: 11, 97
+  index: -1
+fire/fire_029
+  rotate: true
+  xy: 876, 41
+  size: 386, 117
+  orig: 504, 284
+  offset: 14, 97
+  index: -1
+red
+  rotate: false
+  xy: 2, 2
+  size: 63, 35
+  orig: 63, 35
+  offset: 0, 0
+  index: -1
+yellow_stone
+  rotate: false
+  xy: 2, 429
+  size: 1008, 567
+  orig: 1008, 567
+  offset: 0, 0
+  index: -1
+
+dragon_after2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1/fire_1_002
+  rotate: false
+  xy: 508, 5
+  size: 504, 191
+  orig: 504, 284
+  offset: 0, 93
+  index: -1
+fire1/fire_1_003
+  rotate: false
+  xy: 2, 2
+  size: 504, 194
+  orig: 504, 284
+  offset: 0, 90
+  index: -1
+fire1/fire_1_004
+  rotate: true
+  xy: 794, 484
+  size: 504, 197
+  orig: 504, 284
+  offset: 0, 87
+  index: -1
+fire1/fire_1_005
+  rotate: true
+  xy: 288, 198
+  size: 504, 200
+  orig: 504, 284
+  offset: 0, 84
+  index: -1
+fire1/fire_1_006
+  rotate: false
+  xy: 2, 704
+  size: 504, 284
+  orig: 504, 284
+  offset: 0, 0
+  index: -1
+fire1/fire_1_007
+  rotate: true
+  xy: 508, 484
+  size: 504, 284
+  orig: 504, 284
+  offset: 0, 0
+  index: -1
+fire1/fire_1_008
+  rotate: true
+  xy: 2, 198
+  size: 504, 284
+  orig: 504, 284
+  offset: 0, 0
+  index: -1
+fire1/fire_1_009
+  rotate: false
+  xy: 490, 198
+  size: 504, 284
+  orig: 504, 284
+  offset: 0, 0
+  index: -1
+
+dragon_after3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire/fire_009
+  rotate: true
+  xy: 896, 27
+  size: 384, 105
+  orig: 504, 284
+  offset: 0, 96
+  index: -1
+fire/fire_010
+  rotate: false
+  xy: 508, 351
+  size: 385, 104
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_012
+  rotate: false
+  xy: 507, 135
+  size: 387, 104
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_016
+  rotate: false
+  xy: 390, 27
+  size: 387, 106
+  orig: 504, 284
+  offset: 4, 97
+  index: -1
+fire/fire_020
+  rotate: false
+  xy: 507, 241
+  size: 387, 108
+  orig: 504, 284
+  offset: 8, 97
+  index: -1
+fire/fire_022
+  rotate: true
+  xy: 896, 413
+  size: 386, 109
+  orig: 504, 284
+  offset: 10, 97
+  index: -1
+fire/fire_023
+  rotate: false
+  xy: 508, 457
+  size: 386, 110
+  orig: 504, 284
+  offset: 11, 97
+  index: -1
+fire/fire_025
+  rotate: false
+  xy: 2, 2
+  size: 386, 112
+  orig: 504, 284
+  offset: 13, 97
+  index: -1
+fire/fire_026
+  rotate: false
+  xy: 508, 569
+  size: 386, 113
+  orig: 504, 284
+  offset: 13, 97
+  index: -1
+fire/fire_027
+  rotate: false
+  xy: 2, 116
+  size: 386, 114
+  orig: 504, 284
+  offset: 14, 97
+  index: -1
+fire/fire_028
+  rotate: false
+  xy: 508, 684
+  size: 386, 115
+  orig: 504, 284
+  offset: 14, 97
+  index: -1
+fire1/fire_1_000
+  rotate: false
+  xy: 2, 232
+  size: 503, 186
+  orig: 504, 284
+  offset: 0, 98
+  index: -1
+fire1/fire_1_001
+  rotate: false
+  xy: 508, 801
+  size: 504, 189
+  orig: 504, 284
+  offset: 0, 95
+  index: -1
+fire1/fire_1_010
+  rotate: false
+  xy: 2, 706
+  size: 504, 284
+  orig: 504, 284
+  offset: 0, 0
+  index: -1
+fire1/fire_1_011
+  rotate: false
+  xy: 2, 420
+  size: 504, 284
+  orig: 504, 284
+  offset: 0, 0
+  index: -1
+
+dragon_after4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire/fire_000
+  rotate: true
+  xy: 773, 48
+  size: 375, 104
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_001
+  rotate: true
+  xy: 879, 48
+  size: 375, 103
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_002
+  rotate: false
+  xy: 384, 3
+  size: 376, 103
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_003
+  rotate: false
+  xy: 384, 108
+  size: 377, 103
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_004
+  rotate: false
+  xy: 2, 2
+  size: 378, 103
+  orig: 504, 284
+  offset: 0, 97
+  index: -1
+fire/fire_005
+  rotate: false
+  xy: 386, 213
+  size: 379, 104
+  orig: 504, 284
+  offset: 0, 96
+  index: -1
+fire/fire_006
+  rotate: false
+  xy: 2, 107
+  size: 380, 104
+  orig: 504, 284
+  offset: 0, 96
+  index: -1
+fire/fire_007
+  rotate: false
+  xy: 2, 213
+  size: 382, 104
+  orig: 504, 284
+  offset: 0, 96
+  index: -1
+fire/fire_008
+  rotate: false
+  xy: 389, 319
+  size: 382, 104
+  orig: 504, 284
+  offset: 0, 96
+  index: -1
+fire/fire_011
+  rotate: false
+  xy: 2, 319
+  size: 385, 104
+  orig: 504, 284
+  offset: 0, 97
+  index: -1

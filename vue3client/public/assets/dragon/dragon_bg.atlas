@@ -1,0 +1,97 @@
+
+dragon_bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_tx/dragon_tx_000
+  rotate: false
+  xy: 2, 822
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_001
+  rotate: false
+  xy: 2, 658
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_002
+  rotate: false
+  xy: 292, 822
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_003
+  rotate: false
+  xy: 2, 494
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_004
+  rotate: false
+  xy: 292, 658
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_005
+  rotate: false
+  xy: 582, 822
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_006
+  rotate: false
+  xy: 2, 330
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_007
+  rotate: false
+  xy: 292, 494
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_008
+  rotate: false
+  xy: 582, 658
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_009
+  rotate: false
+  xy: 2, 166
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_010
+  rotate: false
+  xy: 292, 330
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_011
+  rotate: false
+  xy: 582, 494
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1
+dragon_tx/dragon_tx_012
+  rotate: false
+  xy: 2, 2
+  size: 288, 162
+  orig: 288, 162
+  offset: 0, 0
+  index: -1

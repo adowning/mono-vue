@@ -1,0 +1,209 @@
+
+monkey_swin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mokey_00
+  rotate: true
+  xy: 567, 180
+  size: 94, 58
+  orig: 96, 60
+  offset: 1, 1
+  index: -1
+mokey_01
+  rotate: false
+  xy: 587, 128
+  size: 46, 50
+  orig: 48, 52
+  offset: 1, 1
+  index: -1
+mokey_02
+  rotate: false
+  xy: 740, 293
+  size: 69, 76
+  orig: 71, 78
+  offset: 1, 1
+  index: -1
+mokey_03
+  rotate: false
+  xy: 2, 91
+  size: 298, 125
+  orig: 298, 125
+  offset: 0, 0
+  index: -1
+mokey_04
+  rotate: false
+  xy: 794, 389
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+mokey_05
+  rotate: false
+  xy: 320, 311
+  size: 142, 199
+  orig: 144, 201
+  offset: 1, 1
+  index: -1
+mokey_06
+  rotate: false
+  xy: 464, 276
+  size: 167, 85
+  orig: 169, 87
+  offset: 1, 1
+  index: -1
+mokey_07
+  rotate: false
+  xy: 190, 4
+  size: 101, 85
+  orig: 103, 87
+  offset: 1, 1
+  index: -1
+mokey_08
+  rotate: true
+  xy: 401, 120
+  size: 89, 58
+  orig: 91, 60
+  offset: 1, 1
+  index: -1
+mokey_09
+  rotate: false
+  xy: 2, 218
+  size: 316, 292
+  orig: 318, 294
+  offset: 1, 1
+  index: -1
+mokey_09_L
+  rotate: false
+  xy: 464, 363
+  size: 159, 147
+  orig: 159, 147
+  offset: 0, 0
+  index: -1
+mokey_10
+  rotate: false
+  xy: 2, 2
+  size: 94, 87
+  orig: 96, 89
+  offset: 1, 1
+  index: -1
+mokey_11
+  rotate: false
+  xy: 625, 371
+  size: 167, 139
+  orig: 169, 141
+  offset: 1, 1
+  index: -1
+mokey_12
+  rotate: true
+  xy: 98, 2
+  size: 87, 90
+  orig: 89, 92
+  offset: 1, 1
+  index: -1
+mokey_13
+  rotate: false
+  xy: 320, 211
+  size: 142, 98
+  orig: 144, 100
+  offset: 1, 1
+  index: -1
+mokey_14
+  rotate: false
+  xy: 461, 118
+  size: 75, 57
+  orig: 77, 59
+  offset: 1, 1
+  index: -1
+mokey_15
+  rotate: false
+  xy: 685, 139
+  size: 37, 45
+  orig: 38, 47
+  offset: 0, 1
+  index: -1
+mokey_16
+  rotate: false
+  xy: 887, 313
+  size: 56, 74
+  orig: 58, 76
+  offset: 1, 1
+  index: -1
+mokey_17
+  rotate: false
+  xy: 811, 311
+  size: 74, 76
+  orig: 76, 78
+  offset: 1, 1
+  index: -1
+mokey_tx01_000
+  rotate: false
+  xy: 715, 242
+  size: 29, 29
+  orig: 159, 147
+  offset: 3, 117
+  index: -1
+mokey_tx01_001
+  rotate: false
+  xy: 635, 136
+  size: 48, 48
+  orig: 159, 147
+  offset: 3, 99
+  index: -1
+mokey_tx01_002
+  rotate: false
+  xy: 945, 358
+  size: 68, 66
+  orig: 159, 147
+  offset: 3, 81
+  index: -1
+mokey_tx01_003
+  rotate: false
+  xy: 930, 426
+  size: 88, 84
+  orig: 159, 147
+  offset: 3, 62
+  index: -1
+mokey_tx01_004
+  rotate: true
+  xy: 633, 273
+  size: 96, 105
+  orig: 159, 147
+  offset: 14, 40
+  index: -1
+mokey_tx01_005
+  rotate: true
+  xy: 464, 177
+  size: 97, 101
+  orig: 159, 147
+  offset: 33, 24
+  index: -1
+mokey_tx01_006
+  rotate: false
+  xy: 302, 107
+  size: 97, 102
+  orig: 159, 147
+  offset: 53, 4
+  index: -1
+mokey_tx01_007
+  rotate: false
+  xy: 627, 186
+  size: 86, 85
+  orig: 159, 147
+  offset: 72, 2
+  index: -1
+mokey_tx01_008
+  rotate: true
+  xy: 945, 290
+  size: 66, 67
+  orig: 159, 147
+  offset: 92, 2
+  index: -1
+mokey_tx01_009
+  rotate: false
+  xy: 538, 123
+  size: 47, 52
+  orig: 159, 147
+  offset: 112, 2
+  index: -1

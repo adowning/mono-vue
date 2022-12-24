@@ -1,0 +1,258 @@
+
+firestorm.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1/celebration_Firestorm 2_000
+  rotate: false
+  xy: 927, 805
+  size: 95, 86
+  orig: 151, 170
+  offset: 31, 35
+  index: -1
+fire1/celebration_Firestorm 2_002
+  rotate: true
+  xy: 790, 698
+  size: 101, 105
+  orig: 151, 170
+  offset: 26, 30
+  index: -1
+fire1/celebration_Firestorm 2_004
+  rotate: true
+  xy: 334, 485
+  size: 124, 111
+  orig: 151, 170
+  offset: 0, 26
+  index: -1
+fire1/celebration_Firestorm 2_006
+  rotate: true
+  xy: 399, 618
+  size: 118, 115
+  orig: 151, 170
+  offset: 6, 24
+  index: -1
+fire1/celebration_Firestorm 2_008
+  rotate: true
+  xy: 205, 491
+  size: 118, 127
+  orig: 151, 170
+  offset: 14, 23
+  index: -1
+fire1/celebration_Firestorm 2_010
+  rotate: false
+  xy: 562, 758
+  size: 112, 115
+  orig: 151, 170
+  offset: 10, 23
+  index: -1
+fire1/celebration_Firestorm 2_012
+  rotate: true
+  xy: 543, 517
+  size: 108, 98
+  orig: 151, 170
+  offset: 9, 35
+  index: -1
+fire1/celebration_Firestorm 2_014
+  rotate: false
+  xy: 676, 709
+  size: 112, 96
+  orig: 151, 170
+  offset: 3, 40
+  index: -1
+fire1/celebration_Firestorm 2_016
+  rotate: false
+  xy: 817, 801
+  size: 108, 90
+  orig: 151, 170
+  offset: 0, 34
+  index: -1
+fire2/difire_000
+  rotate: false
+  xy: 2, 2
+  size: 46, 47
+  orig: 227, 178
+  offset: 87, 74
+  index: -1
+fire2/difire_001
+  rotate: false
+  xy: 230, 273
+  size: 74, 75
+  orig: 227, 178
+  offset: 72, 60
+  index: -1
+fire2/difire_003
+  rotate: false
+  xy: 201, 350
+  size: 97, 90
+  orig: 227, 178
+  offset: 59, 48
+  index: -1
+fire2/difire_005
+  rotate: true
+  xy: 445, 738
+  size: 126, 115
+  orig: 227, 178
+  offset: 42, 30
+  index: -1
+fire2/difire_007
+  rotate: false
+  xy: 863, 893
+  size: 142, 129
+  orig: 227, 178
+  offset: 32, 21
+  index: -1
+fire2/difire_009
+  rotate: false
+  xy: 236, 611
+  size: 161, 125
+  orig: 227, 178
+  offset: 29, 31
+  index: -1
+fire2/difire_011
+  rotate: false
+  xy: 264, 738
+  size: 179, 126
+  orig: 227, 178
+  offset: 23, 32
+  index: -1
+fire2/difire_013
+  rotate: false
+  xy: 673, 894
+  size: 188, 128
+  orig: 227, 178
+  offset: 19, 29
+  index: -1
+fire2/difire_015
+  rotate: false
+  xy: 2, 350
+  size: 197, 135
+  orig: 227, 178
+  offset: 14, 26
+  index: -1
+fire2/difire_017
+  rotate: false
+  xy: 472, 875
+  size: 199, 147
+  orig: 227, 178
+  offset: 10, 19
+  index: -1
+fire2/difire_019
+  rotate: false
+  xy: 2, 487
+  size: 201, 151
+  orig: 227, 178
+  offset: 9, 18
+  index: -1
+fire2/difire_021
+  rotate: false
+  xy: 264, 866
+  size: 206, 156
+  orig: 227, 178
+  offset: 6, 17
+  index: -1
+fire2/difire_023
+  rotate: false
+  xy: 2, 51
+  size: 168, 147
+  orig: 227, 178
+  offset: 15, 20
+  index: -1
+fire2/difire_025
+  rotate: false
+  xy: 2, 200
+  size: 169, 148
+  orig: 227, 178
+  offset: 12, 19
+  index: -1
+fire3/fire_long_000
+  rotate: false
+  xy: 77, 2
+  size: 24, 23
+  orig: 132, 189
+  offset: 44, 14
+  index: -1
+fire3/fire_long_002
+  rotate: false
+  xy: 230, 212
+  size: 81, 59
+  orig: 132, 189
+  offset: 15, 6
+  index: -1
+fire3/fire_long_004
+  rotate: false
+  xy: 543, 442
+  size: 104, 73
+  orig: 132, 189
+  offset: 5, 6
+  index: -1
+fire3/fire_long_006
+  rotate: false
+  xy: 516, 627
+  size: 98, 109
+  orig: 132, 189
+  offset: 7, 6
+  index: -1
+fire3/fire_long_008
+  rotate: false
+  xy: 447, 487
+  size: 94, 129
+  orig: 132, 189
+  offset: 11, 6
+  index: -1
+fire3/fire_long_010
+  rotate: true
+  xy: 676, 807
+  size: 85, 139
+  orig: 132, 189
+  offset: 19, 6
+  index: -1
+fire3/fire_long_012
+  rotate: false
+  xy: 173, 207
+  size: 55, 141
+  orig: 132, 189
+  offset: 43, 11
+  index: -1
+fire3/fire_long_014
+  rotate: false
+  xy: 50, 2
+  size: 25, 23
+  orig: 132, 189
+  offset: 66, 129
+  index: -1
+firestorm_light_001
+  rotate: false
+  xy: 205, 611
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+firestorm_swim_00
+  rotate: false
+  xy: 2, 790
+  size: 260, 232
+  orig: 300, 300
+  offset: 15, 37
+  index: -1
+firestorm_swim_01_000
+  rotate: false
+  xy: 50, 27
+  size: 51, 22
+  orig: 150, 150
+  offset: 43, 65
+  index: -1
+firestorm_swim_02_000
+  rotate: true
+  xy: 897, 698
+  size: 101, 100
+  orig: 150, 150
+  offset: 22, 34
+  index: -1
+ying
+  rotate: false
+  xy: 2, 640
+  size: 232, 148
+  orig: 241, 154
+  offset: 5, 2
+  index: -1
